@@ -6,7 +6,7 @@ public class PercentageOfSam{
 		int physics = 95;
 		int chemistry = 96;
 		
-		double percent = ((double)maths + (double)physics + (double)chemistry)/3;
+		double percent = ((double)maths + (double)physics + (double)chemistry) / 3;
 		
 		System.out.println("Sam’s average mark in PCM is : " + percent);
 	}
