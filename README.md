@@ -128,3 +128,29 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 7 – Built-in Functions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)
+
+### 🗓 Day 8 – Scenario-Based Problems, LeetCode Practice & Revision
+**(Date: 24-Dec-2025)**
+
+- Focused on strengthening problem-solving skills by applying Java concepts to real-world and competitive programming scenarios.
+- Solved scenario-based Java problems to improve logical thinking and code structuring.
+- Practiced LeetCode problems to enhance algorithmic thinking and problem-solving speed.
+- Revised String concepts, including:
+- String methods
+- Character handling
+- String manipulation logic
+- Revised Java built-in functions for better understanding of:
+- Input processing
+- Type conversion
+- Utility methods
+- Refactored and optimized existing solutions for clarity and efficiency.
+- Maintained proper folder structure and code organization.
+- Committed and pushed all updates to the repository.
+
+🔗 **Code Link:**
+👉 [Day 8 – Scenario-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+👉 [Leetcode-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
+
+---
+
+
