@@ -1,0 +1,31 @@
+[33m13b8966[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mjava-oops-practice[m[33m, [m[1;31morigin/java-oops-practice[m[33m)[m [Harshal] : Added AreaOfCircle.java
+[33m907f985[m Restored folders from core-java-practice branch
+[33ma0b86ea[m [Harshal] : Removed extra files and folders
+[33ma71ef95[m Removed extra folders, kept only java-oops-practice
+[33m4b11325[m[33m ([m[1;32mcore-java-practice[m[33m)[m [Harshal] : Added initial setup for oops
+[33m441292b[m[33m ([m[1;31morigin/core-java-practice[m[33m)[m [Harshal] : Added Problem13RomanToInt.java of leetcode
+[33mc4b5e44[m [Harshal] : Added Problem9CheckPalindrome.java of leetcode
+[33m7a2525b[m [Harshal] : Added Problem7ReverseInteger.java of leetcode
+[33m766c7c5[m [Harshal] : Added Problem1TwoSum.java of leetcode
+[33m4a9f8ac[m [Harshal] : Added Problem3074.java of leetcode
+[33mf620fa5[m [Harshal] : Added  BMIFitnessTracker.java
+[33m6c11a4c[m [Harshal] : Added CoffeeCounter.java
+[33madc7569[m [Harshal] : Added README.md that shows daily commits and working!
+[33mefb14ab[m [Harshal] : Added BasicCalculator.java that performs basic operations of Calculators
+[33m890d9a6[m [Harshal] : Added TemperatureConverter.java
+[33m5d95e25[m [Harshal] : Added GcdLcmCalculator.java
+[33m099facb[m [Harshal] : Added FactorialRecursion.java
+[33m93b7e41[m [Harshal] : Added FibonacciGenerator.java
+[33m5380c75[m [Harshal] : Added PrimeNumberChecker.java to check the number is prime or not!
+[33m5ddf8ca[m [Harshal] : Added MaximumOfThree.java
+[33m62f2b6f[m [Harshal] : Added NumberGuessingGame.java
+[33mf096735[m [Harshal] : Added DateComparisonExample.java
+[33m8bf6fa2[m [Harshal] : Added DateFormattingExample.java to print current date and day
+[33mc73ea26[m [Harshal] : Added DateArithmeticExample.java
+[33mcf132ac[m [Harshal] : Added TimeZonesExample.java that shows date & time in GMT, IST & PST time zone
+[33md183d4d[m [Harshal] : Added ReplaceWordInSentence.java
+[33mfb73349[m [Harshal] : Added AnagramCheck.java
+[33m500f8ad[m [Harshal] : Added RemoveSpecificCharacter.java
+[33me8b29ef[m [Harshal] : Added MostFrequentCharacter.java
+[33maf055de[m [Harshal] : Added CompareStrings.java
+[33m9963586[m [Harshal] : Added ToggleCase.java
