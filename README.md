@@ -157,7 +157,7 @@ BridgeLabz-Training/
 ---
 
 ### 🗓 Day 9 – OOPs Fundamentals (Class & Object), Eclipse IDE & Git Branching  
-**(Date: 25-Dec-2025)**
+**(Date: 26-Dec-2025)**
 
 Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a deep focus on **Class and Object**, along with hands-on practice using **Eclipse IDE** and understanding **Git branching**.
 
