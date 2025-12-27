@@ -61,3 +61,32 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
 
 🔗 Code Link:  
 👉 [Day 1 – OOPs (Class & Object)](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
+
+---
+
+### 🗓 Day 2 – Constructors & Access Modifiers  
+**(Date: 27-Dec-2025)**
+
+#### Learned core OOP concepts in Java:
+- Constructors in Java
+  - Default Constructor
+  - Parameterized Constructor
+  - Copy Constructor
+- Constructor Overloading
+- Access Modifiers:
+  - public, protected, default, private
+- Instance vs Class (static) variables and methods
+
+#### Implemented practical examples:
+- Implemented a **Coffee Shop Order System** using different constructors
+- Created a **School** class to demonstrate static variables and methods
+
+#### Improved understanding of:
+- Object initialization
+- Data encapsulation
+- Code structure and reusability
+
+Committed and pushed all changes successfully.
+
+🔗 Code Link:  
+👉 [Day 2 – Constructors & Access Modifiers](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructorandaccessmodifiers/levelone)
