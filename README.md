@@ -156,6 +156,10 @@ BridgeLabz-Training/
 
 ---
 
+### 📅 Week 2: Introduction to Object Oriented Programming
+
+---
+
 ### 🗓 Day 9 – OOPs Fundamentals (Class & Object), Eclipse IDE & Git Branching  
 **(Date: 26-Dec-2025)**
 
