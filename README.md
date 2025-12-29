@@ -21,13 +21,6 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
   - Constructors (parameterized)
 - Compared **Class vs Object** with real-world examples.
 
-#### Key Concepts Covered
-- Attributes (fields) and their role in defining object state
-- Methods to define object behavior
-- Constructors for object initialization
-- Usage of `this` keyword
-- Java naming conventions and best practices
-- Importance of encapsulation and clean code structure
 
 #### Programming Practice
 - Implemented **Student Details program** using class, object, constructor, and methods.
@@ -52,12 +45,6 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
   - Feature-based coding
   - Safe experimentation
 - Practiced pushing changes to specific branches
-
-#### Summary
-- Strengthened foundation of Java OOPs using Class and Object
-- Gained practical experience with Eclipse IDE
-- Improved understanding of Git branching and workflow
-- Maintained clean folder structure and committed changes properly
 
 🔗 Code Link:  
 👉 [Day 1 – OOPs (Class & Object)](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
@@ -90,3 +77,32 @@ Committed and pushed all changes successfully.
 
 🔗 Code Link:  
 👉 [Day 2 – Constructors & Access Modifiers](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructorandaccessmodifiers/levelone)
+
+---
+
+### Day 3 – Java OOP Keywords & `instanceof` operator Content  
+**(Date: 29-Dec-2025)**
+
+#### Learned important Java OOP features:
+- `this` keyword  
+- `final` keyword  
+- `instanceof` operator  
+- `static` keyword  
+
+#### Key Understanding
+- `this` refers to the current object and helps resolve variable conflicts
+- `final` restricts modification, inheritance, or overriding
+- `instanceof` is used to check object type at runtime
+- `static` creates class-level shared members
+
+#### Improved understanding of:
+- Object-oriented design
+- Class vs object behavior
+- Code safety and reusability
+
+Practiced all concepts in **java-oops-practice** branch.
+
+🔗 Code Link:  
+👉 [Day 3 – Java OOP Features](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
+
+---
