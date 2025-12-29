@@ -179,14 +179,6 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
   - Constructors (parameterized)
 - Compared **Class vs Object** with real-world examples.
 
-#### Key Concepts Covered
-- Attributes (fields) and their role in defining object state
-- Methods to define object behavior
-- Constructors for object initialization
-- Usage of `this` keyword
-- Java naming conventions and best practices
-- Importance of encapsulation and clean code structure
-
 #### Programming Practice
 - Implemented **Student Details program** using class, object, constructor, and methods.
 - Implemented **Travel Details program** to understand real-world data modeling using classes and objects.
@@ -210,12 +202,6 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
   - Feature-based coding
   - Safe experimentation
 - Practiced pushing changes to specific branches
-
-#### Summary
-- Strengthened foundation of Java OOPs using Class and Object
-- Gained practical experience with Eclipse IDE
-- Improved understanding of Git branching and workflow
-- Maintained clean folder structure and committed changes properly
 
 🔗 Code Link:  
 👉 [Day 9 – OOPs (Class & Object)](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
@@ -250,4 +236,28 @@ Committed and pushed all changes successfully.
 👉 [Day 10 – Constructors & Access Modifiers](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructorandaccessmodifiers/levelone)
 
 ---
+
+### Day 11 – Java OOP Keywords, instanceof Operator & Scenario-Based Practice  
+**(Date: 29-Dec-2025)**
+
+#### Java OOP Concepts (java-oops-practice)
+Learned key Java features:
+- `this` keyword – refers to the current object
+- `final` keyword – restricts modification or inheritance
+- `instanceof` operator – checks object type at runtime
+- `static` keyword – creates class-level shared members
+
+Improved understanding of scope, object behavior, and code reusability.
+
+#### Scenario-Based Programs (core-java-practice)
+Solved real-world problems:
+- Shopkeeper’s Discount Dashboard (for-loop, if-else)
+- School Bus Attendance System (for-each loop, counters)
+- Phone Recharge Simulator (switch case, loops, balance tracking)
+
+Practiced logical thinking and control flow using real-life scenarios.
+
+🔗 Code Links:  
+👉 [Day 11 – Java OOP Practice ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
+👉 [Scenario-Based Programs](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%203)
 
