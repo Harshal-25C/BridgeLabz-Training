@@ -261,3 +261,36 @@ Practiced logical thinking and control flow using real-life scenarios.
 👉 [Day 11 – Java OOP Practice ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
 👉 [Scenario-Based Programs](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%203)
 
+---
+
+### 🗓 Day 12 – Object Modeling & Scenario-Based Programs  
+**(Date: 30-Dec-2025)** 
+
+#### 🔹 Java OOPS Practice (`java-oops-practice`)
+Learned **Object Modeling** concepts and object communication in Java.
+
+**Topics Covered:**
+- Object Relationships (Aggregation, Association, Composition)
+- Classes vs Objects
+- UML Diagrams:
+  - Class Diagram
+  - Object Diagram
+  - Sequence Diagram
+
+#### 🔹 Core Java Practice (`core-java-practice`)
+Solved multiple **scenario-based problems** to strengthen control flow and logic building.
+
+**Problems Implemented:**
+- 🌡️ Temperature Logger (arrays, loops, if conditions)
+- 🚆 Train Reservation Queue (switch, while-loop, break)
+- 🏋️ Sandeep’s Fitness Challenge Tracker (for-each, continue)
+- 🎬 Movie Ticket Booking App (switch + if, loops)
+- 📚 Rohan’s Library Reminder App (fine calculation using for-loop)
+
+Focused on clean structure, proper variable naming, and modular logic.
+
+🔗 Code Links:
+👉 [Day 12 - Object Modeling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
+👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+
+---
