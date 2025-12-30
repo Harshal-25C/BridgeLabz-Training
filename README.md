@@ -240,7 +240,7 @@ Committed and pushed all changes successfully.
 ### Day 11 – Java OOP Keywords, instanceof Operator & Scenario-Based Practice  
 **(Date: 29-Dec-2025)**
 
-#### Java OOP Concepts (java-oops-practice)
+#### Java OOP Concepts(java-oops-practice)
 Learned key Java features:
 - `this` keyword – refers to the current object
 - `final` keyword – restricts modification or inheritance
