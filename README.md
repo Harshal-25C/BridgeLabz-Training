@@ -153,4 +153,54 @@ BridgeLabz-Training/
 
 ---
 
+### 🗓 Day 9 – Java Control Statements & Loops  
+**(Date: 29-Dec-2025)**  
+
+Practiced Java fundamentals using real-life, scenario-based problems.
+
+#### Problems Solved:
+- 🛍️ **Shopkeeper’s Discount Dashboard**  
+  Used `for-loop` and `if-else` to calculate discounts.
+
+- 🚍 **School Bus Attendance System**  
+  Implemented `for-each` loop to track present and absent students.
+
+- 📱 **Phone Recharge Simulator**  
+  Used `switch` and loops to manage recharges and balances.
+
+- 🚗 **Parking Lot Gate System**  
+  Menu-driven program using `switch-case` and `while` loop.
+
+- 🎲 **Number Guessing Game**  
+  Implemented `do-while` loop with hints and attempt limits.
+
+🔗 **Code Link:**  
+👉 [Day 9 – Core Java Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%203)
+
+---
+
+### 🗓 Day 10 – Advanced Scenario Based Practice  
+**(Date: 29-Dec-2025)**  
+
+Focused on arrays, loops, and control flow through advanced scenarios.
+
+#### Problems Solved:
+- 🎬 **Movie Ticket Booking App**  
+  Combined `switch` and `if` with loops for multiple users.
+
+- 📚 **Rohan’s Library Reminder App**  
+  Calculated late return fines using conditional logic.
+
+- 🌡️ **Temperature Logger**  
+  Used arrays to compute average and maximum temperature.
+
+- 🚆 **Train Reservation Queue**  
+  Ticket booking simulation using `while`, `switch`, and `break`.
+
+- 🏋️ **Sandeep’s Fitness Challenge Tracker**  
+  Weekly tracking using `for-each`, `continue`, and averages.
+
+🔗 **Code Link:**  
+👉 [Day 10 – Core Java Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%204)
+
 
