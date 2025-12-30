@@ -1750,5 +1750,3 @@ Followed proper OOP structure with Model, Utility, and UserInterface classes.
 **👨‍💻 Maintained by:** [Harshal Choudhary](https://github.com/Harshal-25C/)  
 **🏢 Program:** BridgeLabz – Capgemini Pre-Onboarding
 
----
-
