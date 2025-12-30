@@ -106,3 +106,31 @@ Practiced all concepts in **java-oops-practice** branch.
 👉 [Day 3 – Java OOP Features](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
 
 ---
+
+### 🗓 Day 4 – Object Relationships & Class vs Object  
+**(Date: 30-Dec-2025)**  
+
+Learned core concepts of **Object Modeling** and **object communication** in Java.
+
+#### Topics Covered:
+- Classes vs Objects (definition, purpose, memory allocation)
+- Object relationships:
+  - Aggregation
+  - Association
+  - Composition
+- UML basics:
+  - Class Diagrams
+  - Object Diagrams
+  - Sequence Diagrams
+
+#### Problems Solved: (Examples):
+- 📚 **Library and Books (Aggregation)**  
+  Library contains multiple books, while books exist independently.
+
+- 🏦 **Bank and Account Holders (Association)**  
+  Modeled customer–bank relationships with object communication.
+
+🔗 **Code Link:**  
+👉 [Day 4 – Object Modeling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
+
+---
