@@ -1095,7 +1095,7 @@ Solved **3 BST-based scenario problems**:
 ---
 
 ### 📅 Day 31 – Annotations, Reflection & AVL Trees Scenarios
-**Date: 22-Jan-2026)**                    
+**(Date: 22-Jan-2026)**                    
 **Branch:** `java-collections-practice`
 
 Focused on **Annotations and Reflection** with practical examples.
@@ -1342,7 +1342,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
-**Date: 31-Jan-2026)**        
+**(Date: 31-Jan-2026)**        
 **Branch:** `java-design-pattern-practice`
 
 #### 🔹 Design Principles Covered
@@ -1749,4 +1749,3 @@ Followed proper OOP structure with Model, Utility, and UserInterface classes.
 
 **👨‍💻 Maintained by:** [Harshal Choudhary](https://github.com/Harshal-25C/)  
 **🏢 Program:** BridgeLabz – Capgemini Pre-Onboarding
-
