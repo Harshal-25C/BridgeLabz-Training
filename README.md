@@ -134,3 +134,22 @@ Learned core concepts of **Object Modeling** and **object communication** in Jav
 👉 [Day 4 – Object Modeling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
 
 ---
+
+### 🗓 Day 5 – Java Inheritance & OOPS Hierarchies
+**(Date: 31-Dec-2025)** 
+
+#### 🔹 Java OOPS Practice (`java-oops-practice`)
+Learned Inheritance in Java and its role in OOPS.
+
+**Topics Covered:**
+- Practiced Single, Multilevel, Hierarchical & Hybrid Inheritance
+- Implemented method overriding, super() constructor calls, and polymorphism
+- Understood access modifiers and their behavior in inheritance
+- Modeled real-world hierarchies (Animal, Employee, Vehicle, Bank, Restaurant)
+  
+
+🔗 Code Links:
+👉 [Day 5 - Inheritance](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+
+---
+
