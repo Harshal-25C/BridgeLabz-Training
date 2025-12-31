@@ -5,45 +5,90 @@ public class OnlineQuizApplication{
     public static void main(String[] args){
 	    //Initialize Scanner Class
 	    Scanner sc = new Scanner(System.in);
-		String[] arr = new String[5];
+		int[] arr = new int[5];
 		
 		int count = 0;
 		
 		for(int i=0; i<5; i++){
-            switch(i){
-                case 0:
-                    System.out.print("Who is the father of Java? ");
-                    arr[i] = sc.nextLine();
-                    break;
-
-                case 1:
-                    System.out.print("What was the first name of Java? ");
-                    arr[i] = sc.nextLine();
-                    break;
-
-                case 2:
-                    System.out.print("In which year was Java introduced publicly? ");
-                    arr[i] = sc.nextLine();
-                    break;
-
-                case 3:
-                    System.out.print("Which company developed Java? ");
-                    arr[i] = sc.nextLine();
-                    break;
-
-                case 4:
-                    System.out.print("Is Java 100% Object-Oriented? (Yes/No): ");
-                    arr[i] = sc.nextLine();
-                    break;
+            if(i == 0){
+                System.out.println("Q.1 Who is the father of java: ");
+                System.out.println("1. Harshal Choudhary");
+                System.out.println("2. James Gosling");
+                System.out.println("3. Devarshi Mishra");
+                System.out.println("4. Ayush Mishra\n");
+                arr[i] = sc.nextInt();
+                switch(arr[0]){
+                    case 2:
+                        count+=2;
+                        break;
+                    default:
+					System.out.println("Wrong Answer!");
+                        break;
+                }
+            }
+            if(i == 1){
+                System.out.println("Q.2 What was the first name of Java? ");
+                System.out.println("1. Green Language");
+                System.out.println("2. hypen language");
+                System.out.println("3. oak");
+                System.out.println("4. java\n");
+                arr[i] = sc.nextInt();
+                switch(arr[1]){
+                    case 3:
+                        count+=2;
+                        break;
+                    default:
+					    System.out.println("Wrong Answer!");
+                        break;
+                }
+            }
+            if(i == 2){
+                System.out.println("Q.3 In which year was Java introduced publicly? \n");
+                System.out.println("1. 2025");
+                System.out.println("2. 1955");
+                System.out.println("3. 1995");
+                System.out.println("4. 2000\n");
+                arr[i] = sc.nextInt();
+                switch(arr[2]){
+                    case 3:
+                        count+=2;
+                        break;
+                    default:
+					    System.out.println("Wrong Answer!");
+                        break;
+                }
+            }
+            if(i == 3){
+                System.out.println("Q.4 Which company developed Java? \n");
+                System.out.println("1. Oracle");
+                System.out.println("2. Capgemini");
+                System.out.println("3. Google");
+                System.out.println("4. Sun Microsystem\n");
+                arr[i] = sc.nextInt();
+                switch(arr[3]){
+                    case 4:
+                        count+=2;
+                        break;
+                    default:
+					    System.out.println("Wrong Answer!");
+                        break;
+                }
+            }
+            if(i == 4){
+                System.out.println("Q.5 Is Java 100% Object-Oriented? \n");
+                System.out.println("1. Yes");
+                System.out.println("2. No\n");
+                arr[i] = sc.nextInt();
+                switch(arr[4]){
+                    case 2:
+                        count+=2;
+                        break;
+                    default:
+					    System.out.println("Wrong Answer!");
+                        break;
+                }
             }
         }
-
-        //Answer Checking
-        if(arr[0].equalsIgnoreCase("James Gosling")) count += 2;
-        if(arr[1].equalsIgnoreCase("Oak")) count += 2;
-        if(arr[2].equals("1995")) count += 2;
-        if(arr[3].equalsIgnoreCase("Sun Microsystems")) count += 2;
-        if(arr[4].equalsIgnoreCase("No")) count += 2;
 
         System.out.println("You scored " + count + " out of 10.");
 	}
