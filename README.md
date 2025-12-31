@@ -294,3 +294,31 @@ Focused on clean structure, proper variable naming, and modular logic.
 👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
+
+### 🗓 Day 13 – Java Inheritance & OOPS Hierarchies
+**(Date: 31-Dec-2025)** 
+
+#### 🔹 Java OOPS Practice (`java-oops-practice`)
+Learned Inheritance in Java and its role in OOPS.
+
+**Topics Covered:**
+- Practiced Single, Multilevel, Hierarchical & Hybrid Inheritance
+- Implemented method overriding, super() constructor calls, and polymorphism
+- Understood access modifiers and their behavior in inheritance
+- Modeled real-world hierarchies (Animal, Employee, Vehicle, Bank, Restaurant)
+  
+#### 🔹 Core Java Practice (`core-java-practice`)
+Solved scenario-based programs using loops, switch, and conditionals
+
+**Problems Implemented:**
+- Currency Exchange Kiosk (switch, do-while)
+- Bus Route Distance Tracker (while loop, cumulative logic)
+- Festival Lucky Draw (modulus, continue)
+- Digital Watch Simulation (nested loops, break)
+- Online Quiz Application (arrays, switch, scoring)
+
+Focused on control flow, clean logic, and readable structure
+
+🔗 Code Links:
+👉 [Day 13 -  Inheritance ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
+👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%205)
