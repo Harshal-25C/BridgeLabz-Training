@@ -153,3 +153,32 @@ Learned Inheritance in Java and its role in OOPS.
 
 ---
 
+### 🗓 Day 6 – Encapsulation & Polymorphism (OOP Deep Dive)  
+**(Date: 01-Jan-2026)**  
+
+#### 🔹 Java OOPS Practice (`java-oops-practice`)
+Learned and implemented core OOP concepts with hands-on coding and scenario-based problems.
+
+**Concepts Covered:**
+- 🔐 **Encapsulation**
+  - Data hiding using `private` fields
+  - Controlled access via getters and setters
+
+- 🔄 **Polymorphism**
+  - Compile-time polymorphism (Method Overloading)
+  - Runtime polymorphism (Method Overriding)
+
+- 📐 **Interfaces**
+  - Defined contracts for classes
+  - Achieved abstraction and loose coupling
+
+**Practice Work:**
+- Solved **8 questions** focused on encapsulation and polymorphism
+- Solved **4 scenario-based problems** applying real-world OOP design
+- Applied proper access modifiers, inheritance, and dynamic method dispatch
+
+Emphasis on clean design, object interaction, and reusable code structure.
+
+🔗 **Code Link:**  
+👉 [Day 6 – Java Encapsulation & Polymorphism](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+👉 [Scenario Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
