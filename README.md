@@ -291,6 +291,7 @@ Focused on clean structure, proper variable naming, and modular logic.
 
 🔗 Code Links:
 👉 [Day 12 - Object Modeling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
+👉 [UML Diagrams](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/diagrams)
 👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 ---
@@ -322,3 +323,39 @@ Focused on control flow, clean logic, and readable structure
 🔗 Code Links:
 👉 [Day 13 -  Inheritance ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
 👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%205)
+
+---
+
+### 🗓 Day 14 – Encapsulation & Polymorphism (OOP Deep Dive)  
+**(Date: 01-Jan-2026)**  
+
+#### 🔹 Java OOPS Practice (`java-oops-practice`)
+Learned and implemented core OOP concepts with hands-on coding and scenario-based problems.
+
+**Concepts Covered:**
+- 🔐 **Encapsulation**
+  - Data hiding using `private` fields
+  - Controlled access via getters and setters
+  - Improved data integrity and maintainability
+
+- 🔄 **Polymorphism**
+  - Compile-time polymorphism (Method Overloading)
+  - Runtime polymorphism (Method Overriding)
+  - Flexible behavior using parent references
+
+- 📐 **Interfaces**
+  - Defined contracts for classes
+  - Achieved abstraction and loose coupling
+
+**Practice Work:**
+- Solved **8 questions** focused on encapsulation and polymorphism
+- Solved **4 scenario-based problems** applying real-world OOP design
+- Applied proper access modifiers, inheritance, and dynamic method dispatch
+
+Emphasis on clean design, object interaction, and reusable code structure.
+
+🔗 **Code Link:**  
+👉 [Day 14 – Java Encapsulation & Polymorphism](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
+👉 [Scenario Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+---
