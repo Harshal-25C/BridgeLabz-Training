@@ -359,3 +359,50 @@ Emphasis on clean design, object interaction, and reusable code structure.
 👉 [Scenario Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
 ---
+
+## 📘 DSA & Java OOP Practice – Progress Log
+
+---
+
+### 📅 Day 15 – Data Structures Overview
+**(Date: 02-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+- Learned fundamentals of **Data Structures**
+- Explored **Linear & Non-Linear Data Structures**
+- Focused on **Linked Lists**:
+  - Singly Linked List
+  - Doubly Linked List
+  - Circular Linked List
+- Understood use cases, advantages, and limitations
+- Implemented basic real-world linked list problems
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **Hospital Patient Management System**
+- **Vehicle Rental Application**
+- **University Course Enrollment System**
+- **E-Wallet Application**
+- **Smart Home Automation System**
+
+#### 🔧 Concepts Covered
+- Constructor overloading  
+- Access modifiers  
+- Interfaces  
+- Method overriding  
+- Polymorphic behavior  
+- Real-world object modeling  
+
+### ✅ Summary
+- Built strong foundations in **DSA (Linked Lists)**
+- Applied **Java OOP concepts** through practical scenarios
+- Maintained clean separation of learning via branches
+- 
+  🔗 Code Links:
+👉 [Day 15 -  LinkedList](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
+👉 [Scenario-Based Problems-Day2](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day2)
