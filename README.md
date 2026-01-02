@@ -360,7 +360,7 @@ Emphasis on clean design, object interaction, and reusable code structure.
 
 ---
 
-## 📘 DSA & Java OOP Practice – Progress Log
+### 📘Week 3: DSA Overview & Scenario-based OOP Practice – Progress Log
 
 ---
 
