@@ -403,6 +403,6 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Applied **Java OOP concepts** through practical scenarios
 - Maintained clean separation of learning via branches
 - 
-  🔗 Code Links:
+🔗 **Code Links:**
 👉 [Day 15 -  LinkedList](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 👉 [Scenario-Based Problems-Day2](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day2)
