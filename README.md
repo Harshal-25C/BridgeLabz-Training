@@ -182,3 +182,49 @@ Emphasis on clean design, object interaction, and reusable code structure.
 🔗 **Code Link:**  
 👉 [Day 6 – Java Encapsulation & Polymorphism](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 👉 [Scenario Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
+
+---
+
+### 🗓 Day 7 Scenario-Based OOP Practice (Java)
+**(Date: 02-Jan-2026)**
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **Hospital Patient Management System**
+- **Vehicle Rental Application**
+- **University Course Enrollment System**
+- **E-Wallet Application**
+- **Smart Home Automation System**
+
+### ✅ Summary
+- Applied **Java OOP concepts** through practical scenario Problems.
+
+  🔗 **Code Links:**
+👉 [Scenario-Based Problems - Day2](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day2)
+
+---
+
+### 📅 Day 8 – Scenario-Based OOP Practice (Java)
+**(Date: 03-Jan-2026)**  
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Practiced real-world scenarios to strengthen **Core OOP Concepts**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **CabbyGo (Ride-Hailing App)**
+- **MyBank (Banking System)**
+
+#### ✅ Summary
+- Practiced real-world OOP design
+- Maintained structured learning via branches
+
+  🔗 **Code Links:**
+👉 [Scenario-Based Problems - Day3](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day3)
+
+---
