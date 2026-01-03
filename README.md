@@ -413,11 +413,13 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 **(Date: 03-Jan-2026)**  
 **Branch:** `dsa-practice`
 
-- Covered Stacks, Queues & Hash Maps
-- Applied best practices for stack safety & FIFO handling
-- Used Deque and HashMap for optimized solutions
-- Practiced O(n) DSA problems
-- Followed clean logic–main class separation
+- Stack (LIFO): recursion, undo/redo, parenthesis check
+- Queue (FIFO): BFS, scheduling, task processing
+- Deque / PriorityQueue: optimized & priority-based access
+- HashMap: key–value storage, O(1) average lookup
+- Hashing: bucket mapping, collision handling
+- Practiced: balanced parentheses, BFS-style queues, sliding windows, hash-based lookups
+- Focus: optimized O(n) solutions & clean code
 
 #### 🔹 Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
