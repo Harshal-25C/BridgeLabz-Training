@@ -316,6 +316,29 @@ BridgeLabz-Training/
 
 Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a deep focus on **Class and Object**, along with hands-on practice using **Eclipse IDE** and understanding **Git branching**.
 
+#### 📂 Project Structure
+
+```text
+BridgeLabz-Training/
+│
+├── java-oops-practice/
+│   │
+│   ├── gcr-codebase/
+│   │   └── JavaOopsConcept/
+│   │       ├── diagrams/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Core Java OOPS concepts)
+│   │
+│   ├── scenario-based-codebase/
+│   │   └── JavaScenarioBased/
+│   │       └── src/
+│   │           └── com/
+│   │               └── (Scenario based OOPS problems)
+│   │
+│   └── README.md
+```
+
 #### Java OOPs – Class and Object
 - Learned the concept of **Class** as a blueprint that defines attributes (fields) and behaviors (methods).
 - Understood that a class does not consume memory until an object is created.
