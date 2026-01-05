@@ -65,3 +65,29 @@ BridgeLabz-Training/
 👉 [Hashing](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashing)
 
 ---
+
+### 📅 Day 3 – Sorting Algorithms & Scenario-Based OOP
+**(Date: 05-Jan-2026)**  
+**Branch:** `dsa-practice` 
+
+#### 🔹 Sorting Algorithms (DSA):
+Practiced fundamental **sorting techniques** to organize data efficiently:
+
+- **Bubble Sort** – Adjacent comparison & swapping
+- **Insertion Sort** – Build sorted array incrementally
+- **Selection Sort** – Select minimum & swap
+- **Merge Sort** – Divide & Conquer, stable sorting
+- **Quick Sort** – Pivot-based partitioning
+- **Heap Sort** – Max Heap based sorting
+- **Counting Sort** – Frequency-based non-comparison sort
+
+**Focus:**  
+- Time & space complexity analysis  
+- Comparison vs Non-comparison sorting  
+- In-place vs Stable sorting  
+- Real-world datasets (marks, prices, salaries, ages)
+
+🔗 **Code Links:**  
+👉 [Day 3- Sorting Algorithms ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+
+---
