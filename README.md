@@ -440,3 +440,48 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 👉 [Day 16 - Stacks, Queues](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/stackandqueue)
 👉 [Hashing](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/hashing)
 👉 [Scenario-Based Problems - Day3](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day3)
+
+---
+
+### 📅 Day 17 – Sorting Algorithms & Scenario-Based OOP
+**(Date: 05-Jan-2026)**  
+**Branch:** `dsa-practice` 
+
+#### 🔹 Sorting Algorithms (DSA):
+Practiced fundamental **sorting techniques** to organize data efficiently:
+
+- **Bubble Sort** – Adjacent comparison & swapping
+- **Insertion Sort** – Build sorted array incrementally
+- **Selection Sort** – Select minimum & swap
+- **Merge Sort** – Divide & Conquer, stable sorting
+- **Quick Sort** – Pivot-based partitioning
+- **Heap Sort** – Max Heap based sorting
+- **Counting Sort** – Frequency-based non-comparison sort
+
+**Focus:**  
+- Time & space complexity analysis  
+- Comparison vs Non-comparison sorting  
+- In-place vs Stable sorting  
+- Real-world datasets (marks, prices, salaries, ages)
+
+#### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Strengthened **Core OOP Concepts** through real-world systems:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **CampusConnect – College Information System**
+- **SwiftCart – Grocery Shopping App**
+
+#### ✅ Summary
+- Built strong understanding of **sorting algorithms**
+- Compared algorithm efficiency & use cases
+- Applied **OOP principles** in real-world scenarios
+- Maintained clean, structured learning across branches
+
+🔗 **Code Links:**  
+👉 [Day 17- Sorting Algorithms ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)  
+👉 [Scenario-Based Problems - Day4](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day4)
+
+---
