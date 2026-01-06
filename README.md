@@ -1,4 +1,4 @@
-### 📅 Week 2: Introduction to Object Oriented Programming
+### 📅 Introduction to Object Oriented Programming
 
 ---
 
@@ -226,7 +226,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Applied **Java OOP concepts** through practical scenario Problems.
 
   🔗 **Code Links:**
-👉 [Scenario-Based Problems - Day2](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day2)
+👉 [Day 7 - Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day2)
 
 ---
 
@@ -248,7 +248,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Maintained structured learning via branches
 
   🔗 **Code Links:**
-👉 [Scenario-Based Problems - Day3](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day3)
+👉 [Day 8 - Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day3)
 
 ---
 
@@ -273,7 +273,24 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - Used **constructors** & **operators** for calculations 
 
   🔗 Code Links:
-👉 [Day 9 - Scenario-Based Problems-Day4](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day4)
+👉 [Day 9 - Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day4)
 
 ---
 
+### 📅 Day 10 – Java I/O Streams, String Optimization & Search Algorithms  
+**(Date: 06-Jan-2026)**  
+
+### 🔹 Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles** through real-world systems:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+#### ✔ Scenarios Implemented
+- **EduMentor** – Learning platform with quizzes & certification logic  
+- **FitTrack** – Fitness tracking with workouts & calorie computation  
+- **PetPal** – Virtual pet care with interactive behaviors  
+- **EventEase** – Event booking, scheduling & cost calculation
+
+🔗 **Code Links:**  
+👉 [Day 10 - Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day5)
