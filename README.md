@@ -1,4 +1,4 @@
-### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+## 📅 Git, GitHub & Java Programming Fundamentals
 
 ---
 
@@ -156,7 +156,7 @@ BridgeLabz-Training/
 
 ---
 
-### 📅 Week 2: Introduction to Object Oriented Programming
+## 📅 Introduction to Object Oriented Programming
 
 ---
 
@@ -360,7 +360,7 @@ Emphasis on clean design, object interaction, and reusable code structure.
 
 ---
 
-### 📘Week 3: DSA Overview & Scenario-based OOP Practice – Progress Log
+## 📘 DSA Overview & Scenario-based OOP Practice – Progress Log
 
 ---
 
