@@ -128,3 +128,27 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 👉 [StringBuilder](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/StringBuilder)
 👉 [StringBuffer](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/StringBuffer)
 👉 [BufferedReader](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/BufferedReader)
+
+---
+
+### 📅 Day 5 –  Runtime Analysis & Big-O Notation   
+**(Date: 07-Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Learned how to **measure algorithm efficiency** based on time and space growth.
+
+#### ✔ Topics Covered
+- **Big-O Notations:** O(1), O(log N), O(N), O(N log N), O(N²), O(2ⁿ), O(N!)
+- **Time Complexity:** Best, Average, Worst case analysis
+- **Space Complexity:** O(1) vs O(N)
+- **Algorithm Comparison:** Linear Search, Binary Search, Bubble Sort, Merge Sort, Quick Sort
+
+**Focus:**  
+- Choosing efficient algorithms  
+- Reducing nested loops  
+- Optimizing time & space usage
+  
+🔗 **Code Links:**
+👉 [Day 5 - Runtime Analysis & Big-O](https://github.com/Ayush5304/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPractice/src/com/TimeandSpaceComplexity)
+
+---
