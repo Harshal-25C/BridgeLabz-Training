@@ -1,8 +1,53 @@
 # BridgeLabz-Training
 ---
 
-## 📅 Program Prerequisites
+## 📁Project Structure
 
+```
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 control-flows/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 strings/
+│   │   └── 📁 extras/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 inheritance/
+│   │               └── 📁 encapsulation/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashmapsandfunctions/
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+└── README.md
+```
+---
+## 📅Week 1 : Java Programming Fundamentals
 ---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
@@ -10,21 +55,6 @@
 
 - Installed and configured Git.
 - Set up GitHub repository.
-```
-BridgeLabz-Training/
-│── core-java-practice/
-│ │── gcr-codebase/
-│ │ │── arrays/
-│ │ │── control-flow/
-│ │ │── extra/
-│ │ │── methods/
-│ │ │── programming elements/
-│ │ │── programming prerequisites/
-│ │ │── strings/
-│ │── leet-code-codebase/
-│ │── scenario-based-codebase/
-│── README.md
-```
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`, `rebase`).
 - Successfully pushed files to the remote repository.
 
@@ -39,10 +69,6 @@ BridgeLabz-Training/
 
 🔗 **Code Link:**  
 👉 [Day 2 – Basic Java Programs](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/program%20prerequisites)
-
----
-
-## 📅Week 1 : Java Programming Fundamentals
 
 ---
 
