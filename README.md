@@ -3,7 +3,6 @@
 
 > 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
 > 🧑‍💻 Core Java | OOPs | DSA | Scenario-Based Learning  
-> 📍 Capgemini Pre-Onboarding | BridgeLabz
 
 ![Java](https://img.shields.io/badge/Java-Core-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
