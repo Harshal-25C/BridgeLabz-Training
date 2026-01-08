@@ -12,22 +12,21 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
 ```text
 BridgeLabz-Training/
 │
-├── java-oops-practice/
-│   │
-│   ├── gcr-codebase/
-│   │   └── JavaOopsConcept/
-│   │       ├── diagrams/
-│   │       └── src/
-│   │           └── com/
-│   │               └── (Core Java OOPS concepts)
-│   │
-│   ├── scenario-based-codebase/
-│   │   └── JavaScenarioBased/
-│   │       └── src/
-│   │           └── com/
-│   │               └── (Scenario based OOPS problems)
-│   │
-│   └── README.md
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 inheritance/
+│   │               └── 📁 encapsulation/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
+└── README.md
 ```
 
 #### Java OOPs – Class and Object
@@ -316,3 +315,22 @@ Applied **Core OOP Principles**:
 
 ---
 
+### 📅 Day 12 - Scenario-Based OOP Practice
+
+**(Date: 08-Jan-2026)**  
+**Branch:**  `java-oops-practice`
+
+#### ✔ Scenarios Implemented
+- **MediStore** – Pharmacy inventory, sales, and expiry management  
+- **TourMate** – Travel itinerary planning and booking system  
+
+#### ✔ Concepts Used
+- Encapsulation & Access Modifiers  
+- Interfaces & Inheritance  
+- Polymorphism  
+- Constructor-based design and calculations
+
+🔗 **Code Links:**
+👉 [Day 12 - Scenario-Based OOP Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day7)
+
+---
