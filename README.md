@@ -1,4 +1,32 @@
-# BridgeLabz-Training
+# BridgeLabz-Training🎯
+--- 
+
+> 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
+> 🧑‍💻 Core Java | OOPs | DSA | Scenario-Based Learning  
+> 📍 Capgemini Pre-Onboarding | BridgeLabz
+
+![Java](https://img.shields.io/badge/Java-Core-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
+![DSA](https://img.shields.io/badge/DSA-Practice-blue)
+
+---
+
+## Training Overview📈💡
+This repository documents my learning journey at BridgeLabz pre-onboarding training program as part of the **Capgemini** onboarding process, spanning from December 15, 2025 to present.
+The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
+
+---
+
+## ♨️Repository Branches :-
+[``🔹 core-java-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice)
+**➡️ Week 1:** Fundamentals of Java Programming
+
+[``🔹 java-oops-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice)
+**➡️ Week 2:** Object-Oriented Programming
+
+[``🔹 dsa-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice)
+**➡️ Week 3:** Data Structures & Algorithms
+
 ---
 
 ## 📁Project Structure
@@ -14,7 +42,7 @@ BridgeLabz-Training/
 │   │   ├── 📁 arrays/
 │   │   ├── 📁 methods/
 │   │   ├── 📁 strings/
-│   │   └── 📁 extras/
+│   │   └── 📁 extra/
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 │
@@ -39,7 +67,12 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├── 📁 linkedlist/
 │   │               ├── 📁 stacksandqueues/
-│   │               ├── 📁 hashmapsandfunctions/
+│   │               ├── 📁 hashing/
+|   |               ├── 📁 StringBuilder
+|   |               ├── 📁 StringBuffer
+|   |               ├── 📁 TimeAndSpaceComplexity
+|   |               ├── 📁 BufferedReader
+|   |               ├── 📁 searching
 │   │               └── 📁 sorting/
 │   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
@@ -47,7 +80,10 @@ BridgeLabz-Training/
 └── README.md
 ```
 ---
-## 📅Week 1 : Java Programming Fundamentals
+
+<details>
+<summary><strong style="font-size: 1.8em;">📅 Week 1 – Java Programming Fundamentals</strong><em>(click to expand)</em></summary>
+
 ---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
@@ -189,7 +225,7 @@ BridgeLabz-Training/
 
 ---
 
-## Week 2: 📅 Introduction to Object Oriented Programming
+## <summary><strong>Week 2: 📅 Introduction to Object Oriented Programming</strong></summary>
 
 ---
 
@@ -393,7 +429,7 @@ Emphasis on clean design, object interaction, and reusable code structure.
 
 ---
 
-## Week 3: 📘DSA Overview & Scenario-based OOP Practice – Progress Log
+## <summary><strong>Week 3: 📘DSA Overview & Scenario-based OOP Practice – Progress Log</strong></summary>
 
 ---
 
@@ -424,12 +460,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 - **Smart Home Automation System**
 
 #### 🔧 Concepts Covered
-- Constructor overloading  
-- Access modifiers  
-- Interfaces  
-- Method overriding  
-- Polymorphic behavior  
-- Real-world object modeling  
+- Constructor overloading ➜ Access modifiers ➜ Interfaces ➜ Method overriding ➜ Polymorphic behavior ➜ Real-world object modeling  
 
 ### ✅ Summary
 - Built strong foundations in **DSA (Linked Lists)**
@@ -604,3 +635,30 @@ Applied **Core OOP Principles**:
 👉 [Scenario-Based Problems - Day6](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day6)
 
 ---
+
+### 📅 Day 20 - Scenario-Based OOP Practice
+
+**(Date: 08-Jan-2026)**  
+**Branch:**  `java-oops-practice`
+
+## Scenarios Implemented
+- **MediStore** – Pharmacy inventory, sales, and expiry management  
+- **TourMate** – Travel itinerary planning and booking system  
+
+## Concepts Used
+- Encapsulation & Access Modifiers  
+- Interfaces & Inheritance  
+- Polymorphism  
+- Constructor-based design and calculations
+
+🔗 **Code Links:**
+👉 [Day 20 - Scenario-Based OOP Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day7)
+
+---
+
+</details>
+
+📌 This repository reflects continuous learning, clean coding practices, and readiness for enterprise-level development.
+
+**👨‍💻 Maintained by:** [Harshal Choudhary](https://github.com/Harshal-25C/)  
+**🏢 Program:** BridgeLabz – Capgemini Pre-Onboarding
