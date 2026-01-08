@@ -80,7 +80,7 @@ BridgeLabz-Training/
 ```
 ---
 
-### 📅 Week 1 – Java Programming Fundamentals
+## 📅 Week 1 – Java Programming Fundamentals
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -228,7 +228,7 @@ BridgeLabz-Training/
 
 </details>
 
-### 📅 Week 2 - Introduction to Object Oriented Programming
+## 📅 Week 2 - Introduction to Object Oriented Programming
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
@@ -437,7 +437,7 @@ Emphasis on clean design, object interaction, and reusable code structure.
 
 </details>
 
-### 📅 Week 3 - DSA Overview & Scenario-based OOP Practice – Progress Log
+## 📅 Week 3 - DSA Overview & Scenario-based OOP Practice – Progress Log
 
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
