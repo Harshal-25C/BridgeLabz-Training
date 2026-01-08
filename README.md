@@ -81,8 +81,10 @@ BridgeLabz-Training/
 ```
 ---
 
+## 📅 Week 1 – Java Programming Fundamentals
+
 <details>
-<summary><strong style="font-size: 1.8em;">📅 Week 1 – Java Programming Fundamentals</strong><em>(click to expand)</em></summary>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ---
 
@@ -225,7 +227,12 @@ BridgeLabz-Training/
 
 ---
 
-## <summary><strong>Week 2: 📅 Introduction to Object Oriented Programming</strong></summary>
+</details>
+
+## 📅 Week 2 - Introduction to Object Oriented Programming
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ---
 
@@ -429,7 +436,12 @@ Emphasis on clean design, object interaction, and reusable code structure.
 
 ---
 
-## <summary><strong>Week 3: 📘DSA Overview & Scenario-based OOP Practice – Progress Log</strong></summary>
+</details>
+
+## 📅 Week 3 - DSA Overview & Scenario-based OOP Practice – Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
 
 ---
 
@@ -641,11 +653,11 @@ Applied **Core OOP Principles**:
 **(Date: 08-Jan-2026)**  
 **Branch:**  `java-oops-practice`
 
-## Scenarios Implemented
+#### ✔ Scenarios Implemented
 - **MediStore** – Pharmacy inventory, sales, and expiry management  
 - **TourMate** – Travel itinerary planning and booking system  
 
-## Concepts Used
+#### ✔ Concepts Used
 - Encapsulation & Access Modifiers  
 - Interfaces & Inheritance  
 - Polymorphism  
@@ -654,9 +666,9 @@ Applied **Core OOP Principles**:
 🔗 **Code Links:**
 👉 [Day 20 - Scenario-Based OOP Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day7)
 
----
-
 </details>
+
+---
 
 📌 This repository reflects continuous learning, clean coding practices, and readiness for enterprise-level development.
 
