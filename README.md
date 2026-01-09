@@ -316,7 +316,6 @@ Applied **Core OOP Principles**:
 ---
 
 ### 📅 Day 12 - Scenario-Based OOP Practice
-
 **(Date: 08-Jan-2026)**  
 **Branch:**  `java-oops-practice`
 
@@ -332,5 +331,19 @@ Applied **Core OOP Principles**:
 
 🔗 **Code Links:**
 👉 [Day 12 - Scenario-Based OOP Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day7)
+
+---
+
+### 📅 Day 13 - Scenario-Based OOP Practice
+**(Date: 09-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+#### 🔹 Scenarios Implemented
+- **Artify** – Digital art marketplace with purchases and licensing  
+- **FoodLoop** – Restaurant ordering system with combos and discounts  
+- **SkillForge** – Online learning portal with courses and certification  
+
+🔗 **Code Links:**
+👉 [Day 13 - Scenario-Based OOP Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day8)
 
 ---
