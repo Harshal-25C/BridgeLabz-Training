@@ -684,17 +684,17 @@ Applied **Core OOP Principles**:
 **(Date: 10-Jan-2026)**
 **Branch:** `dsa-practice`
 
-## 🔹 Scenarios Implemented
+#### 🔹 Scenarios Implemented
 - **BookShelf** – Library organizer using HashMap and LinkedList  
 - **BrowserBuddy** – Tab history manager using Doubly Linked List and Stack  
 - **AmbulanceRoute** – Emergency navigation using Circular Linked List  
 
-## 🔹 Data Structures Used
+#### 🔹 Data Structures Used
 - Singly, Doubly & Circular Linked Lists  
 - Stack  
 - HashMap (with optional HashSet)
 
-## 🔹 Key Focus
+#### 🔹 Key Focus
 - Real-world problem modeling  
 - Efficient insert, delete, and traversal operations
 
