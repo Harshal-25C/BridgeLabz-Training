@@ -278,7 +278,7 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
   - Safe experimentation
 - Practiced pushing changes to specific branches
 
-🔗 Code Link:  
+🔗 **Code Link:**  
 👉 [Day 9 – OOPs (Class & Object)](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/classandobject)
 
 ---
@@ -307,7 +307,7 @@ Started learning **Object-Oriented Programming (OOPs)** concepts in Java with a 
 
 Committed and pushed all changes successfully.
 
-🔗 Code Link:  
+🔗 **Code Link:**  
 👉 [Day 10 – Constructors & Access Modifiers](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/constructorandaccessmodifiers/levelone)
 
 ---
@@ -332,7 +332,7 @@ Solved real-world problems:
 
 Practiced logical thinking and control flow using real-life scenarios.
 
-🔗 Code Links:  
+🔗 **Code Links:**  
 👉 [Day 11 – Java OOP Practice ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/keywords)
 👉 [Scenario-Based Programs](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%203)
 
@@ -364,7 +364,7 @@ Solved multiple **scenario-based problems** to strengthen control flow and logic
 
 Focused on clean structure, proper variable naming, and modular logic.
 
-🔗 Code Links:
+🔗 **Code Links:**
 👉 [Day 12 - Object Modeling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/objectmodeling)
 👉 [UML Diagrams](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/diagrams)
 👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
@@ -395,7 +395,7 @@ Solved scenario-based programs using loops, switch, and conditionals
 
 Focused on control flow, clean logic, and readable structure
 
-🔗 Code Links:
+🔗 **Code Links:**
 👉 [Day 13 -  Inheritance ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/inheritance)
 👉 [Scenario-Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/day%205)
 
@@ -473,7 +473,7 @@ Practiced real-world scenarios to strengthen **Core OOP Concepts**:
 #### 🔧 Concepts Covered
 - Constructor overloading ➜ Access modifiers ➜ Interfaces ➜ Method overriding ➜ Polymorphic behavior ➜ Real-world object modeling  
 
-### ✅ Summary
+#### ✅ Summary
 - Built strong foundations in **DSA (Linked Lists)**
 - Applied **Java OOP concepts** through practical scenarios
 - Maintained clean separation of learning via branches
@@ -565,7 +565,7 @@ Strengthened **Core OOP Concepts** through real-world systems:
 **(Date: 06-Jan-2026)**  
 **Branch:** `dsa-practice`  
 
-### 🔹 Java I/O Streams & String Handling (Core Java)
+#### 🔹 Java I/O Streams & String Handling (Core Java)
 
 Practiced **Java input/output streams** and **efficient string manipulation** for real-world applications:
 
@@ -578,7 +578,7 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
   - Difference between String, StringBuilder, and StringBuffer
   - Performance comparison and thread-safety analysis
     
-### 🔹 Searching Algorithms (DSA)
+#### 🔹 Searching Algorithms (DSA)
 - **Linear Search**
   - First negative element in an array
   - Searching a specific word in sentences
@@ -592,7 +592,7 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
   - First and last occurrence of elements
   - Efficient searching in sorted datasets
 
-### 🔹 Scenario-Based OOP Practice (Java)
+#### 🔹 Scenario-Based OOP Practice (Java)
 **Branch:** `java-oops-practice`
 
 Applied **Core OOP Principles** through real-world systems:
@@ -666,7 +666,7 @@ Applied **Core OOP Principles**:
 
 ---
 
-### 📅 Day 21 - Scenario-Based OOP Practice
+#### 📅 Day 21 - Scenario-Based OOP Practice
 **(Date: 09-Jan-2026)**  
 **Branch:** `java-oops-practice`
 
