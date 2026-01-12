@@ -562,7 +562,7 @@ Strengthened **Core OOP Concepts** through real-world systems:
 ---
 
 ### 📅 Day 18 – Java I/O Streams, String Optimization & Search Algorithms  
-**(Date: 06-Jan-2026)**  
+**(Date: 06-Jan-2026)**                  
 **Branch:** `dsa-practice`  
 
 #### 🔹 Java I/O Streams & String Handling (Core Java)
@@ -614,7 +614,7 @@ Applied **Core OOP Principles** through real-world systems:
 ---
 
 ### 📅 Day 19 – Runtime Analysis & Big-O Notation   
-**(Date: 07-Jan-2026)**  
+**(Date: 07-Jan-2026)**                                                         
 **Branch:** `dsa-practice`
  
 Learned how to **measure algorithm efficiency** based on time and space growth.
@@ -648,7 +648,7 @@ Applied **Core OOP Principles**:
 ---
 
 ### 📅 Day 20 - Scenario-Based OOP Practice
-**(Date: 08-Jan-2026)**  
+**(Date: 08-Jan-2026)**                                                 
 **Branch:**  `java-oops-practice`
 
 #### ✔ Scenarios Implemented
@@ -681,7 +681,7 @@ Applied **Core OOP Principles**:
 ---
 
 ### 📅 Day 22 - Scenario-Based DSA Practice
-**(Date: 10-Jan-2026)**
+**(Date: 10-Jan-2026)**                                                                                    
 **Branch:** `dsa-practice`
 
 #### 🔹 Scenarios Implemented
@@ -704,7 +704,7 @@ Applied **Core OOP Principles**:
 ---
 
 ### 📅 Day 23 - Scenario-Based & Leetcode practice
-**(Date: 12-Jan-2026)**
+**(Date: 12-Jan-2026)**                                                                                        
 **Branch:** `dsa-practice` & `java-oops-practice`
 
 #### 🔹 Summary
