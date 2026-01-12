@@ -3,8 +3,8 @@
 ---
 
 ### 📅 Day 1 – Data Structures Overview
-**(Date: 02-Jan-2026)**  
-**Branch:** dsa-practice
+**(Date: 02-Jan-2026)**                               
+**Branch:** `dsa-practice`
 
 #### 📘 DSA(Data Structure and Algorithms)
 
@@ -49,7 +49,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 2 – Stacks, Queues & Hashing
-**(Date: 03-Jan-2026)**  
+**(Date: 03-Jan-2026)**                                     
 **Branch:** `dsa-practice`
 
 - Stack (LIFO): recursion, undo/redo, parenthesis check
@@ -67,7 +67,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 3 – Sorting Algorithms & Scenario-Based OOP
-**(Date: 05-Jan-2026)**  
+**(Date: 05-Jan-2026)**                      
 **Branch:** `dsa-practice` 
 
 #### 🔹 Sorting Algorithms (DSA):
@@ -93,7 +93,7 @@ Practiced fundamental **sorting techniques** to organize data efficiently:
 ---
 
 ### 📅 Day 4 – Java I/O Streams, String Optimization & Search Algorithms  
-**(Date: 06-Jan-2026)**  
+**(Date: 06-Jan-2026)**                   
 **Branch:** `dsa-practice`  
 
 #### 🔹 Java I/O Streams & String Handling (Core Java)
@@ -132,7 +132,7 @@ Practiced **Java input/output streams** and **efficient string manipulation** fo
 ---
 
 ### 📅 Day 5 –  Runtime Analysis & Big-O Notation   
-**(Date: 07-Jan-2026)**  
+**(Date: 07-Jan-2026)**                           
 **Branch:** `dsa-practice`
  
 Learned how to **measure algorithm efficiency** based on time and space growth.
@@ -154,7 +154,7 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 ---
 
 ### 📅 Day 6 - Scenario-Based DSA Practice
-**(Date: 10-Jan-2026)**
+**(Date: 10-Jan-2026)**                                                
 **Branch:** `dsa-practice`
 
 #### 🔹 Scenarios Implemented
@@ -177,7 +177,7 @@ Learned how to **measure algorithm efficiency** based on time and space growth.
 ---
 
 ### 📅 Day 7 - Scenario-Based & Leetcode practice
-**(Date: 12-Jan-2026)**                                                                            
+**(Date: 12-Jan-2026)**                                                                                           
 **Branch:** `dsa-practice`
 
 #### 🔹 Summary
