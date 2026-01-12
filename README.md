@@ -666,7 +666,7 @@ Applied **Core OOP Principles**:
 
 ---
 
-#### 📅 Day 21 - Scenario-Based OOP Practice
+### 📅 Day 21 - Scenario-Based OOP Practice
 **(Date: 09-Jan-2026)**  
 **Branch:** `java-oops-practice`
 
