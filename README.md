@@ -1,5 +1,4 @@
 # BridgeLabz-Training🎯
-
 --- 
 
 > 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
