@@ -735,6 +735,39 @@ Applied **Core OOP Principles**:
 👉 [DSA Leetcode Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/DSALeetcodePractice/src/com/day1)
 👉 [Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day9)
 
+---
+
+### 🗓 Day 24  – Java OOPs & DSA Scenario-Based Practice  
+**(Date: 13-Jan-2026)**  
+**Branch:** `dsa-practice`
+ 
+Worked on real-world DSA use cases using core data structures.
+
+####  Topics Covered
+-  **SmartCheckout** – Supermarket Billing Queue(Queue & HashMap)
+-  **ParcelTracker** – Delivery Chain Management(Singly Linked List)
+-  **ExamProctor** – Online Exam Review System(Stack & HashMap)
+
+**Focus:**  
+- Applying DSA to real-life scenarios
+- Efficient data organization and retrieval
+- Clean logic using core collections
+
+####  Scenario-Based OOP Practice (Java)
+**Branch:** `java-oops-practice`
+
+Applied **Core OOP Principles**:
+**Encapsulation, Inheritance, Abstraction, Polymorphism**
+
+####  Scenarios Implemented
+- **PayXpress** – Utility Bill Payment System
+- **EcoWing Bird Sanctuary** – Bird behavior tracking system
+- **Bird Sanctuary (Advanced)** – Annotations and Reflection
+  
+🔗 **Code Links:**
+👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day3)
+👉 [Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day10)
+
 </details>
 
 ---
