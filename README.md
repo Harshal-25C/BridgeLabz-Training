@@ -234,8 +234,8 @@ Worked on real-world DSA use cases using core data structures.
   - Quick Sort (ticket price optimization)
 Analyzed sorting behavior for small vs large datasets, stability, and performance.
 
-🔹 Solved 5 LeetCode problems to strengthen understanding of core DSA concepts.
-🔹 Practiced problem-solving using efficient approaches and optimized logic.
+#### 🔹 Solved 5 LeetCode problems to strengthen understanding of core DSA concepts.       
+#### 🔹 Practiced problem-solving using efficient approaches and optimized logic.
 
 🔗 **Code Links:**  
 👉 [day 9 - DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day4)
