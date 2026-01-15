@@ -28,6 +28,9 @@ The training is organized into structured branches covering different aspects of
 [``🔹 dsa-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice)
 **➡️ Week 3:** Data Structures & Algorithms
 
+[``🔹 java-collections-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice)
+**➡️ Week 4:** Java Collections & Stream
+
 ---
 
 ## 📁Project Structure
