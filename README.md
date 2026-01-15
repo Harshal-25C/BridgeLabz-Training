@@ -1,4 +1,4 @@
-### 📅 DSA Practice – Progress Log
+## 📅 DSA Practice – Progress Log
 
 ---
 
@@ -220,5 +220,25 @@ Worked on real-world DSA use cases using core data structures.
 
 🔗 **Code Links:**
 👉 [Day 8 - DSA Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day3)
+
+---
+
+### 🗓 Day 9 – Sorting Algorithms Scenario Practice
+**(Date: 15-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
+  - Bubble Sort (patient criticality management)
+  - Insertion Sort (real-time book arrangement)
+  - Merge Sort (sales reports and student ranking)
+  - Quick Sort (ticket price optimization)
+Analyzed sorting behavior for small vs large datasets, stability, and performance.
+
+🔹 Solved 5 LeetCode problems to strengthen understanding of core DSA concepts.
+🔹 Practiced problem-solving using efficient approaches and optimized logic.
+
+🔗 **Code Links:**  
+👉 [day 9 - DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day4)
+👉 [Leetcode Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/DSALeetcodePractice/src/com/day2)
 
 ---
