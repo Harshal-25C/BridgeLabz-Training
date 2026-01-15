@@ -807,7 +807,7 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
 - Avoiding raw types and type erasure pitfalls
 - Designing clean and reusable generic APIs
   
-#### Implemented real-world generic systems:
+#### 🔹 Implemented real-world generic systems:
   - Smart Warehouse Management
   - Online Marketplace
   - Course Management System
