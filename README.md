@@ -817,9 +817,13 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
   - Meal Plan Generator
   - AI-Driven Resume Screening System
 
-🔗 **Code Links:**  
+#### 🔹 Solved 5 LeetCode problems to strengthen understanding of core DSA concepts.
+#### 🔹 Practiced problem-solving using efficient approaches and optimized logic.
+
+🔗 **Code Links:**   
+👉 [Day 25 - Java Generics Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/generics)
 👉 [DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day4)
-👉 [Java Generics Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/generics)
+👉 [DSA Leetcode Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/DSALeetcodePractice/src/com/day2)
 
 </details>
 
