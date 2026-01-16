@@ -825,6 +825,54 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
 👉 [DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day4)
 👉 [DSA Leetcode Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leetcode-codebase/DSALeetcodePractice/src/com/day2)
 
+---
+
+### 📅 Day 26 – Sorting Scenarios & Java Collections Framework  
+**(Date: 16-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+Solved **3 real-world scenario-based sorting problems**:
+
+- **RoboWarehouse** – Shelf loading using **Insertion Sort** (dynamic, streaming inserts)
+- **CinemaHouse** – Movie showtime ordering using **Bubble Sort** (small dataset)
+- **CropMonitor** – Sensor data ordering using **Quick Sort** (large, unordered data)
+
+#### 🔹 Java Collections Framework  
+**Branch:** `java-collections-practice`
+
+Learned and practiced the **Java Collections Framework** in depth:
+
+#### ✔ Core Topics Covered
+- Collection hierarchy: `List`, `Set`, `Queue`, `Map`
+- Implementations:
+  - **List:** ArrayList, LinkedList, Vector
+  - **Set:** HashSet, LinkedHashSet, TreeSet
+  - **Queue/Deque:** PriorityQueue, ArrayDeque
+  - **Map:** HashMap, LinkedHashMap, TreeMap, Hashtable
+- Performance comparison & real-world use cases
+- Best practices: generics, choosing correct collection, avoiding legacy misuse
+
+#### ✔ Practice Problems Implemented
+- **List operations:** reverse, rotate, frequency count, remove duplicates
+- **Set operations:** union, intersection, subsets, sorting
+- **Queue problems:** reverse queue, triage system, circular buffer
+- **Map problems:** word frequency, merge maps, grouping objects
+- **Mini systems:**
+  - Insurance Policy Management
+  - Banking System
+  - Voting System
+  - Shopping Cart
+
+#### ✅ Summary
+- Strengthened **sorting algorithm application**
+- Built strong fundamentals of **Java Collections**
+- Solved extensive **hands-on problems** across List, Set, Queue, and Map
+- Continued structured, branch-wise learning
+
+🔗 **Code Links:**   
+👉 [Day 26 - Java Collections](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/collections)
+👉 [DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day5)
+
 </details>
 
 ---
