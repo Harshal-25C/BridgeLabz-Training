@@ -873,6 +873,37 @@ Learned and practiced the **Java Collections Framework** in depth:
 👉 [Day 26 - Java Collections](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/collections)
 👉 [DSA Sorting Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day5)
 
+---
+
+### 📅 Day 27 – Sorting Algorithms (Scenario-Based Practice)  
+**(Date: 17-Jan-2026)**  
+**Branch:** `dsa-practice`
+
+Worked on **4 real-world, scenario-based problems** applying core **sorting algorithms** to practical use cases.
+
+#### 🔹 Sorting Scenarios Implemented
+
+- **IceCreamRush** – Sorted ice cream flavors by weekly sales using **Bubble Sort**  
+  *Focus:* small dataset, simple adjacent comparisons
+
+- **SmartLibrary** – Maintained alphabetically sorted borrowed books using **Insertion Sort**  
+  *Focus:* dynamic insertion, nearly sorted data
+
+- **ArtExpo** – Managed artist registrations sorted by time using **Insertion Sort**  
+  *Focus:* real-time insertion, incremental sorting
+
+- **FleetManager** – Combined vehicle maintenance schedules using **Merge Sort**  
+  *Focus:* merging sorted sublists, scalability for large datasets
+
+### 🔹 Concepts Covered
+- Bubble Sort, Insertion Sort, Merge Sort
+- Choosing algorithms based on data size & nature
+- Real-time vs batch sorting
+- Efficiency in practical systems
+
+🔗 **Code Links:**   
+👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day6)
+
 </details>
 
 ---
