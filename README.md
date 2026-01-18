@@ -366,7 +366,7 @@ Applied **Core OOP Principles**:
 ---
 
 ### 🗓 Day 15 – Java OOPs Scenario-Based Practice  
-**(Date: 13 -Jan-2026)**
+**(Date: 13-Jan-2026)**
 **Branch:** `java-oops-practice`
 
 Applied **Core OOP Principles**:
@@ -379,5 +379,18 @@ Applied **Core OOP Principles**:
   
 🔗 **Code Links:**
 👉 [Day 15 - Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day10)
+
+---
+
+### 📅 Day 16 – Scenario-Based OOP Practice (Java) 
+**(Date: 17-Jan-2026)**  
+**Branch:** `java-oops-practice`
+
+Solved **2 OOP-based scenario questions**:
+- **GeoMeasure Solutions** – Line comparison using classes, constructors, encapsulation, methods, and `this` keyword.
+- **Bag-n-Ball Organizer** – Modeled Bag–Ball relationship using classes, encapsulation, composition, and method design (capacity checks, add/remove/display).
+
+🔗 **Code Links:**   
+👉 [Day 16 - Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day11)
 
 ---
