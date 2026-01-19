@@ -394,3 +394,17 @@ Solved **2 OOP-based scenario questions**:
 👉 [Day 16 - Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day11)
 
 ---
+
+### 📅 Day 17 – Scenario-Based OOP Practice 
+**(Date: 19-Jan-2026)**   
+**Branch:** `java-oops-practice`
+
+#### 🔹 Java OOPS – Scenario Based 
+Solved **1 OOP scenario problem**:
+- **Address Book System**  
+  Implemented contact management using classes, constructors, encapsulation, collections (`ArrayList`), search, sort, add, edit, and delete operations.
+
+🔗 **Code Links:** 
+👉 [Day 17 - Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day12)
+
+---
