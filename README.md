@@ -838,7 +838,7 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
 ---
 
 ### 📅 Day 26 – Sorting Scenarios & Java Collections Framework  
-**(Date: 16-Jan-2026)**  
+**(Date: 16-Jan-2026)**   
 **Branch:** `dsa-practice`
 
 Solved **3 real-world scenario-based sorting problems**:
@@ -886,7 +886,7 @@ Learned and practiced the **Java Collections Framework** in depth:
 ---
 
 ### 📅 Day 27 – Sorting Algorithms (Scenario-Based Practice)  
-**(Date: 17-Jan-2026)**  
+**(Date: 17-Jan-2026)**   
 **Branch:** `dsa-practice`
 
 Worked on **4 real-world, scenario-based problems** applying core **sorting algorithms** to practical use cases.
@@ -915,6 +915,37 @@ Solved **2 OOP-based scenario questions**:
 🔗 **Code Links:**   
 👉 [Day 27 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day6)
 👉 [Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day11)
+
+---
+
+### 📅 Day 28 – DSA, OOPS & Java Collections  
+**(Date: 19-Jan-2026)**   
+
+#### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
+Solved **3 real-world sorting problems**:
+- **EduResults** – Merge Sort (state-wise rank list from district-wise sorted data)
+- **FlashDealz** – Quick Sort (sorting products by discount for flash sales)
+- **FitnessTracker** – Bubble Sort (daily step count ranking for small groups)
+
+#### 🔹 Java OOPS – Scenario Based `(java-oops-practice)`
+Solved **1 OOP scenario problem**:
+- **Address Book System**  
+  Implemented contact management using classes, constructors, encapsulation, collections (`ArrayList`), search, sort, add, edit, and delete operations.
+
+#### 🔹 Java Collections / I-O Streams `(java-collections-practice)`
+Learned **Java I/O Streams**:
+- Byte Streams & Character Streams
+- File, Buffered, Object, ByteArray, Data, Piped Streams
+- Reader & Writer with encoding
+- **🛠 Best practices:** buffering, try-with-resources, serialization, File read/write using FileInputStream & FileOutputStream, Large file copy using Buffered Streams (performance comparison),
+ Console input → file storage, Object serialization & deserialization, Image to byte array conversion, Uppercase to lowercase file filter, DataStreams for primitive data, PipedStreams (inter-thread communication), Read large file line-by-line (error filter), Word frequency counter (Top 5 words)
+
+🔗 **Code Links:**  
+👉 [Day 28 - Java Streams](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/streams)
+👉 [Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day7)
+👉 [Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day12)
+
+---
 
 </details>
 
