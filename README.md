@@ -285,3 +285,20 @@ Worked on **4 real-world, scenario-based problems** applying core **sorting algo
 
 🔗 **Code Links:**   
 👉 [Day 11 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day6)
+
+---
+
+### 📅 Day 12 – Sorting Algorithms (Scenario-Based Practice)
+**(Date: 19-Jan-2026)**   
+**Branch:** `dsa-practice`
+
+#### 🔹 DSA – Scenario Based Sorting 
+Solved **3 real-world sorting problems**:
+- **EduResults** – Merge Sort (state-wise rank list from district-wise sorted data)
+- **FlashDealz** – Quick Sort (sorting products by discount for flash sales)
+- **FitnessTracker** – Bubble Sort (daily step count ranking for small groups)
+
+🔗 **Code Links:**  
+👉 [DAy 12 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day7)
+
+---
