@@ -302,3 +302,22 @@ Solved **3 real-world sorting problems**:
 👉 [DAy 12 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day7)
 
 ---
+
+### 📅 Day 13 – DSA, Logic Building
+**(Date: 20-jan-2026)**
+
+#### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
+Solved **3 real-world sorting problems**:
+- **MovieTime** – Insertion Sort (real-time theater showtime insertion)
+- **FoodFest** – Merge Sort (combining zone-wise footfall data)
+- **GamerZone** – Quick Sort (high-score leaderboard for large dynamic data)
+
+#### 🔹 Logical Problem `(dsa-practice)`
+- **Password Generating Key**  
+  Implemented ASCII-based string transformation with validation, filtering even ASCII values, reversing, and position-based casing.
+
+🔗 **Code Links:**  
+👉 [Day 13 - Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day8)
+👉 [DSA Logical Question](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms)
+
+---
