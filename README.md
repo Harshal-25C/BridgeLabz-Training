@@ -974,6 +974,46 @@ Learned and practiced:
 👉 [Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day8)
 👉 [DSA Logical Question](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms)
 
+---
+
+### 📅 Day 30 – DSA (Sorting & Trees) and Java Testing  
+**(Date: 21-Jan-2026)**
+
+#### 🔹 DSA – Sorting Scenarios `(dsa-practice)`
+Solved **2 real-world sorting problems**:
+- **TailorShop** – Insertion Sort (deadline-based order management)
+- **MedWarehouse** – Merge Sort (merging expiry-date records from branches)
+
+#### 🌳 DSA – Tree Scenarios (Binary Search Tree)
+Solved **3 BST-based scenario problems**:
+- **University Digital Record System** – Insert, delete, search, and sorted display of student records.
+- **E-Commerce Product Inventory** – SKU-based lookup, update, and sorted listing.
+- **Music App Track Organizer** – Track search, insertion, and in-order playlist display.
+
+#### 🔹Learned and practiced **Regex & JUnit**:
+**Branch:** `java-collections-practice`
+
+#### Regex
+- Metacharacters and Quantifiers  
+- Common patterns:
+  - Email validation
+  - Password strength check
+  - Phone number format
+- Java Regex API:
+  - `Pattern`, `Matcher`
+  - `find()`, `matches()`, `replaceAll()`
+
+#### JUnit
+- Introduction to JUnit Framework
+- Annotations and test class structure
+- Writing test cases
+- Assertions for validation
+- Solved multiple hands-on problems using Regex and JUnit for validation and testing.
+
+🔗 **Code Links:**  
+👉 [Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
+👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
+
 </details>
 
 ---
