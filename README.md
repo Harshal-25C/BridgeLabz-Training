@@ -1013,6 +1013,8 @@ Solved **3 BST-based scenario problems**:
 👉 [Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
 👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
 
+---
+
 </details>
 
 ---
