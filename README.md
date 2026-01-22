@@ -1010,6 +1010,7 @@ Solved **3 BST-based scenario problems**:
 - Solved multiple hands-on problems using Regex and JUnit for validation and testing.
 
 🔗 **Code Links:**  
+👉 [Day 30 - Regex](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/)
 👉 [Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
 👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
 
