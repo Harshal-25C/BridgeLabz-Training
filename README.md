@@ -1010,14 +1010,42 @@ Solved **3 BST-based scenario problems**:
 - Solved multiple hands-on problems using Regex and JUnit for validation and testing.
 
 🔗 **Code Links:**  
-👉 [Day 30 - Regex](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/)
+👉 [Day 30 - Regex](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/regex)
+👉 [JUnit](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/JUnit)
 👉 [Sorting Algorithm Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
 👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day9)
 
 ---
 
-### 📅 Day 31 – 
-### 📅 Day 32 – 
+### 📅 Day 31 – Annotations, Reflection & AVL Trees Scenarios
+**Date: 22-Jan-2026)**
+**Branch:** `java-collections-practice`
+
+Focused on **Annotations and Reflection** with practical examples.
+
+#### Annotations
+- Purpose of annotations for metadata and configuration
+- Used built-in annotations like `@Override`, `@Deprecated`
+- Created custom annotations
+- metadata handling using annotations
+- Explored real-world use cases (validation, logging, frameworks)
+
+#### Reflection
+- Understood runtime inspection of classes, methods, and fields
+- Used Reflection APIs to access methods and annotations dynamically
+- Learned how annotations work with reflection in frameworks
+
+#### 🌳 DSA – AVL Tree Scenarios `dsa-practice`
+Solved **3 real-world AVL Tree problems**:
+
+- **Gaming App Leaderboard** – insert, update, rank, and remove players
+- **Online Ticket Booking** – manage events sorted by time
+- **Hospital Queue System** – balanced patient registration and retrieval
+
+🔗 **Code Links:**  
+👉 [Day 31 - Annotations](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/)
+👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/)
+👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day10)
 
 </details>
 
