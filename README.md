@@ -1043,8 +1043,8 @@ Solved **3 real-world AVL Tree problems**:
 - **Hospital Queue System** – balanced patient registration and retrieval
 
 🔗 **Code Links:**  
-👉 [Day 31 - Annotations](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/)
-👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/)
+👉 [Day 31 - Annotations](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/Annotations)
+👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection)
 👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day10)
 
 </details>
