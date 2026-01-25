@@ -28,7 +28,10 @@ The training is organized into structured branches covering different aspects of
 **➡️ Week 3:** Data Structures & Algorithms
 
 [``🔹 java-collections-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice)
-**➡️ Week 4:** Java Collections & Stream
+**➡️ Week 4:** Java Collections & Streams
+
+[``🔹 java-iostreams-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice)
+**➡️ Week 5:** IO Programmming, Data & File-Handling
 
 ---
 
