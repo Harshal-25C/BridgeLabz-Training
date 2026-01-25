@@ -19,6 +19,12 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├── 📁 generics/
 │   │               ├── 📁 collections/
+│   │               ├── 📁 streams/
+│   │               ├── 📁 exceptions/
+│   │               ├── 📁 regex/
+│   │               ├── 📁 JUnit/
+│   │               ├── 📁 reflection/
+│   │               ├── 📁 annotations/
 │   └── 📁 scenario-based-codebase/
 │
 └── README.md
@@ -117,5 +123,58 @@ Learned and practiced:
 
 🔗 **Code Links:**  
 👉 [Day 4 - Java Exceptions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/exceptions)
+
+---
+
+### 📅 Day 5 – Regex & JUnit (Java Testing)  
+**(Date: 21-Jan-2026)**
+**Branch:** `java-collections-practice`
+
+#### 🔹Learned and practiced **Regex & JUnit**:
+
+#### Regex
+- Metacharacters and Quantifiers  
+- Common patterns:
+  - Email validation
+  - Password strength check
+  - Phone number format
+- Java Regex API:
+  - `Pattern`, `Matcher`
+  - `find()`, `matches()`, `replaceAll()`
+
+#### JUnit
+- Introduction to JUnit Framework
+- Annotations and test class structure
+- Writing test cases
+- Assertions for validation
+- Solved multiple hands-on problems using Regex and JUnit for validation and testing.
+
+🔗 **Code Links:**  
+👉 [Day 5 - Regex](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/regex)
+👉 [JUnit](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/JUnit)
+
+---
+
+### 📅 Day 6 – Annotations, Reflection with practice problems
+**(Date: 22-Jan-2026)**
+**Branch:** `java-collections-practice`
+
+Focused on **Annotations and Reflection** with practical examples.
+
+### Annotations
+- Purpose of annotations for metadata and configuration
+- Used built-in annotations like `@Override`, `@Deprecated`, `@SuppressWarnings`, `@BugReport`, `@Repeatable`
+- Created custom annotations
+- metadata handling using annotations
+- Explored real-world use cases (validation, logging, frameworks)
+
+### Reflection
+- Understood runtime inspection of classes, methods, and fields
+- Used Reflection APIs to access methods and annotations dynamically
+- Learned how annotations work with reflection in frameworks
+
+🔗 **Code Links:**  
+👉 [Day 6 - Annotations](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/Annotations)
+👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection)
 
 ---
