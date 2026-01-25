@@ -2,7 +2,7 @@
 ---
 
 ### 🗓 Day 1 – Java Generics Overview 
-**(Date: 15-Jan-2026)**                    
+**(Date: 15-Jan-2026)**                      
 **Branch:** `java-collections-practice`
 
 Studied the Java Collections Framework to manage groups of objects efficiently using built-in data structures. Learned the difference between Collection and Map interfaces and their real-world use cases.
@@ -57,7 +57,7 @@ BridgeLabz-Training/
 ---
 
 ### 📅 Day 2 – Java Collections Framework  
-**(Date: 16-Jan-2026)** 
+**(Date: 16-Jan-2026)**     
 **Branch:** `java-collections-practice`
 
 Learned and practiced the **Java Collections Framework** in depth:
@@ -93,7 +93,7 @@ Learned and practiced the **Java Collections Framework** in depth:
 ---
 
 ### 📅 Day 3 – DSA, OOPS & Java Collections  
-**(Date: 19-Jan-2026)**   
+**(Date: 19-Jan-2026)**                 
 **Branch:** `java-collections-practice`
 
 #### 🔹 Java Collections / I-O Streams
@@ -127,7 +127,7 @@ Learned and practiced:
 ---
 
 ### 📅 Day 5 – Regex & JUnit (Java Testing)  
-**(Date: 21-Jan-2026)**
+**(Date: 21-Jan-2026)**                             
 **Branch:** `java-collections-practice`
 
 #### 🔹Learned and practiced **Regex & JUnit**:
@@ -156,7 +156,7 @@ Learned and practiced:
 ---
 
 ### 📅 Day 6 – Annotations, Reflection with practice problems
-**(Date: 22-Jan-2026)**
+**(Date: 22-Jan-2026)**                        
 **Branch:** `java-collections-practice`
 
 Focused on **Annotations and Reflection** with practical examples.
