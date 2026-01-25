@@ -63,7 +63,6 @@ BridgeLabz-Training/
 │   │               ├── 📁 inheritance/
 │   │               ├── 📁 abstraction/
 │   │               └── 📁 polymorphism/
-│   ├── 📁 leet-code-codebase/
 │   └── 📁 scenario-based-codebase/
 │
 ├── 📁 dsa-practice/
@@ -90,8 +89,22 @@ BridgeLabz-Training/
 │   │           └── 📁 com/
 │   │               ├── 📁 generics/
 │   │               ├── 📁 collections/
+│   │               ├── 📁 streams/
+│   │               ├── 📁 exceptions/
+│   │               ├── 📁 regex/
+│   │               ├── 📁 JUnit/
+│   │               ├── 📁 reflection/
+│   │               └── 📁 annotations/
 │   └── 📁 scenario-based-codebase/
 │
+├── 📁 java-iostreams-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaIOStreams/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 CSV Data Handling/
+|   └── 📁 scenario-based-codebase/
+|
 └── README.md
 ```
 ---
