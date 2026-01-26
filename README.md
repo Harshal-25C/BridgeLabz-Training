@@ -1063,6 +1063,41 @@ Solved **3 real-world AVL Tree problems**:
 👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection)
 👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day10)
 
+---
+
+### 📅 Day 32 – CSV Data Handling & Scenario-Based Java Practice  
+**(Date: 23-Jan-2026)**  
+**Branches:** `java-iostreams-practice`
+
+#### 🔹Java I/O Streams – CSV Data Handling
+Learned how to work with **CSV (Comma-Separated Values)** files for real-world data processing.
+
+### Topics Covered
+- CSV fundamentals (rows, columns, delimiters)
+- Reading CSV using:
+  - `BufferedReader` (manual parsing)
+  - **OpenCSV** library
+- Writing CSV using:
+  - `BufferedWriter`
+  - `CSVWriter` (OpenCSV)
+- Mapping CSV data to Java objects (`CsvToBean`)
+- CSV data validation using **Regex**
+- Handling missing/invalid fields with exceptions
+
+#### 🔹Scenario-Based Java Practice | `java-collections-practice`
+Solved **5 real-world systems** using **Collections, Generics, I/O Streams, Regex, and Exceptions**:
+
+#### ✔ Scenarios Implemented
+- **ResumeAnalyzer** – Resume parsing, regex-based extraction, keyword ranking
+- **TravelLog** – Object serialization, search using regex, stats using Map & Set
+- **FeedbackGuru** – Feedback analysis, rating extraction, category grouping
+- **CodeRepoCleaner** – Java file scanning, regex validation, file categorization
+- **ExamScanner** – CSV parsing, answer validation, scoring using Maps & PriorityQueue
+
+🔗 **Code Links:**  
+👉 [Day 32 - CSV Data Handling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/CSVDataHandling)
+👉 [Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day1)
+
 </details>
 
 ---
