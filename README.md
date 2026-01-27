@@ -1,4 +1,5 @@
 ## 🗓 Introduction to Java Collections & Stream
+
 ---
 
 ### 🗓 Day 1 – Java Generics Overview 
@@ -24,7 +25,7 @@ BridgeLabz-Training/
 │   │               ├── 📁 regex/
 │   │               ├── 📁 JUnit/
 │   │               ├── 📁 reflection/
-│   │               ├── 📁 annotations/
+│   │               └── 📁 annotations/
 │   └── 📁 scenario-based-codebase/
 │
 └── README.md
@@ -176,5 +177,43 @@ Focused on **Annotations and Reflection** with practical examples.
 🔗 **Code Links:**  
 👉 [Day 6 - Annotations](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/Annotations)
 👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection)
+
+---
+
+### 📅 Day 7 – Collections-Based Scenario Java Practice  
+**(Date: 23-Jan-2026)**          
+**Branche:** `java-collections-practice`
+
+#### 🔹Scenario-Based Java Practice
+Solved **5 real-world systems** using **Collections, Generics, I/O Streams, Regex, and Exceptions**:
+
+#### ✔ Scenarios Implemented
+- **ResumeAnalyzer** – Resume parsing, regex-based extraction, keyword ranking
+- **TravelLog** – Object serialization, search using regex, stats using Map & Set
+- **FeedbackGuru** – Feedback analysis, rating extraction, category grouping
+- **CodeRepoCleaner** – Java file scanning, regex validation, file categorization
+- **ExamScanner** – CSV parsing, answer validation, scoring using Maps & PriorityQueue
+
+🔗 **Code Links:** 
+👉 [Day 7 - Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day1)
+
+---
+
+### 📅 Day 8 – Collections-Based Scenario Java Practice
+**(Date: 24-Jan-2026)**         
+**Branche:** `java-collections-practice`
+
+#### 🔹 Scenario-Based Practice
+Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams, Regex, JSON/CSV, and Custom Exceptions**:
+
+#### ✔ Scenarios Implemented
+- **MedInventory** – CSV inventory parsing, expiry detection, low-stock alerts
+- **ChatLogParser** – Chat analysis using regex, TreeMap sorting, filters
+- **SongVault** – Music file parsing, grouping, stream-based filtering
+- **ExamResultUploader** – CSV validation, subject-wise ranking, PriorityQueue
+- **DealTracker** – Deal parsing, expiry checks, duplicate prevention, sorting
+
+🔗 **Code Links:**  
+👉 [Day 8 - Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day2)
 
 ---
