@@ -811,7 +811,7 @@ Applied **Core OOP Principles**:
 ---
 
 ### 🗓 Day 25 – Java Generics Overview & Sorting Scenario Practice
-**(Date: 15-Jan-2026)**                    
+**(Date: 15-Jan-2026)**                     
 **Branch:** `dsa-practice`
 
 #### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
@@ -853,7 +853,7 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
 ---
 
 ### 📅 Day 26 – Sorting Scenarios & Java Collections Framework  
-**(Date: 16-Jan-2026)**   
+**(Date: 16-Jan-2026)**           
 **Branch:** `dsa-practice`
 
 Solved **3 real-world scenario-based sorting problems**:
@@ -863,7 +863,7 @@ Solved **3 real-world scenario-based sorting problems**:
 - **CropMonitor** – Sensor data ordering using **Quick Sort** (large, unordered data)
 
 #### 🔹 Java Collections Framework  
-**Branch:** `java-collections-practice`
+**Branch:** `java-collections-practice`       
 
 Learned and practiced the **Java Collections Framework** in depth:
 
@@ -901,7 +901,7 @@ Learned and practiced the **Java Collections Framework** in depth:
 ---
 
 ### 📅 Day 27 – Sorting Algorithms (Scenario-Based Practice)  
-**(Date: 17-Jan-2026)**   
+**(Date: 17-Jan-2026)**        
 **Branch:** `dsa-practice`
 
 Worked on **4 real-world, scenario-based problems** applying core **sorting algorithms** to practical use cases.
@@ -934,7 +934,7 @@ Solved **2 OOP-based scenario questions**:
 ---
 
 ### 📅 Day 28 – DSA, OOPS & Java Collections  
-**(Date: 19-Jan-2026)**   
+**(Date: 19-Jan-2026)**       
 
 #### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
 Solved **3 real-world sorting problems**:
@@ -963,7 +963,7 @@ Learned **Java I/O Streams**:
 ---
 
 ### 📅 Day 29 – DSA, Logic Building & Exception Handling  
-**(Date: 20-jan-2026)**
+**(Date: 20-jan-2026)**                 
 
 #### 🔹 DSA – Scenario Based Sorting (dsa-practice)
 Solved **3 real-world sorting problems**:
@@ -992,7 +992,7 @@ Learned and practiced:
 ---
 
 ### 📅 Day 30 – DSA (Sorting & Trees) and Java Testing  
-**(Date: 21-Jan-2026)**
+**(Date: 21-Jan-2026)**          
 
 #### 🔹 DSA – Sorting Scenarios `(dsa-practice)`
 Solved **2 real-world sorting problems**:
@@ -1034,7 +1034,7 @@ Solved **3 BST-based scenario problems**:
 ---
 
 ### 📅 Day 31 – Annotations, Reflection & AVL Trees Scenarios
-**Date: 22-Jan-2026)**
+**Date: 22-Jan-2026)**                    
 **Branch:** `java-collections-practice`
 
 Focused on **Annotations and Reflection** with practical examples.
@@ -1066,8 +1066,8 @@ Solved **3 real-world AVL Tree problems**:
 ---
 
 ### 📅 Day 32 – CSV Data Handling & Scenario-Based Java Practice  
-**(Date: 23-Jan-2026)**  
-**Branches:** `java-iostreams-practice`
+**(Date: 23-Jan-2026)**          
+**Branche:** `java-iostreams-practice`
 
 #### 🔹Java I/O Streams – CSV Data Handling
 Learned how to work with **CSV (Comma-Separated Values)** files for real-world data processing.
@@ -1097,6 +1097,48 @@ Solved **5 real-world systems** using **Collections, Generics, I/O Streams, Rege
 🔗 **Code Links:**  
 👉 [Day 32 - CSV Data Handling](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/CSVDataHandling)
 👉 [Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day1)
+
+---
+
+### 📅 Day 33 – JSON Data Handling & Scenario-Based Java Practice  
+**Date: 24-Jan-2026)**         
+**Branche:** `java-iostreams-practice`
+
+#### 🔹 JSON Data Handling in Java
+Learned **JSON (JavaScript Object Notation)** for structured data exchange and processing.
+
+#### Topics Covered
+- JSON fundamentals: objects, arrays, nested structures
+- Creating JSON using:
+  - `org.json`
+  - **Gson**
+  - **Jackson**
+- Reading JSON:
+  - Mapping JSON → POJO (`ObjectMapper.readValue`)
+  - Dynamic parsing using `JsonNode`
+- Writing JSON:
+  - Java objects → JSON files
+- Nested JSON & JSON arrays
+- JSON Schema Validation for structure and data integrity
+
+#### Key Takeaways
+- Jackson is best for **enterprise-grade JSON processing**
+- Gson is lightweight and simple
+- JSON Schema ensures **data consistency and validation**
+
+#### 🔹 Scenario-Based Practice | `java-collections-practice`
+Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams, Regex, JSON/CSV, and Custom Exceptions**:
+
+#### ✔ Scenarios Implemented
+- **MedInventory** – CSV inventory parsing, expiry detection, low-stock alerts
+- **ChatLogParser** – Chat analysis using regex, TreeMap sorting, filters
+- **SongVault** – Music file parsing, grouping, stream-based filtering
+- **ExamResultUploader** – CSV validation, subject-wise ranking, PriorityQueue
+- **DealTracker** – Deal parsing, expiry checks, duplicate prevention, sorting
+
+🔗 **Code Links:**  
+👉 [Day 33 - JSON Data](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/jsonData)
+👉 [Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day2)
 
 </details>
 
