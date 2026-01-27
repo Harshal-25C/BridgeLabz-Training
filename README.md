@@ -109,6 +109,17 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 CSV Data Handling/
+|   |               └── 📁 JSON Data/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java8-programming-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 Java8Programming/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 LamdaExpressions/
+|   |               ├── 📁 MethodReferences/
+|   |               └── 📁 interfaces/
 |   └── 📁 scenario-based-codebase/
 |
 └── README.md
