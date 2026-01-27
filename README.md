@@ -33,6 +33,9 @@ The training is organized into structured branches covering different aspects of
 [``🔹 java-iostreams-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice)
 **➡️ Week 5:** IO Programmming, Data & File-Handling
 
+[``🔹 java8-programming-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice)
+**➡️ Week 6:** Java-8 and it's feature
+
 ---
 
 ## 📁Project Structure
