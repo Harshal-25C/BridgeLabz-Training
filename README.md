@@ -1065,6 +1065,15 @@ Solved **3 real-world AVL Tree problems**:
 
 ---
 
+</details>
+
+## 📅 Week 5 - IO Programming (CSV & JSON Files Handling)
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
 ### 📅 Day 32 – CSV Data Handling & Scenario-Based Java Practice  
 **(Date: 23-Jan-2026)**          
 **Branche:** `java-iostreams-practice`
@@ -1101,7 +1110,7 @@ Solved **5 real-world systems** using **Collections, Generics, I/O Streams, Rege
 ---
 
 ### 📅 Day 33 – JSON Data Handling & Scenario-Based Java Practice  
-**Date: 24-Jan-2026)**         
+**(Date: 24-Jan-2026)**         
 **Branche:** `java-iostreams-practice`
 
 #### 🔹 JSON Data Handling in Java
@@ -1139,6 +1148,59 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 🔗 **Code Links:**  
 👉 [Day 33 - JSON Data](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/jsonData)
 👉 [Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day2)
+
+---
+
+</details>
+
+## 📅 Week 6 - Java 8 & its Features - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 34 – Java 8 Features & Advanced Java Practice  
+**(Date: 27-Jan-2026)**            
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Java 8 Core Concepts Learned
+#### Lambda Expressions
+- Learned **lambda expressions** as concise implementations of functional interfaces (SAM).
+- Understood **target typing**, **type inference**, and **effectively final variables**.
+- Compared **anonymous classes vs lambdas** (`this` behavior).
+- Applied lambdas in:
+  - Dynamic sorting (`Comparator`), Filtering (`Predicate`), Stream pipelines (`filter`, `map`, `collect`)
+
+#### Method References
+- Studied method references as readable alternatives to lambdas.
+- Types covered:
+  - Static (`Class::method`), Instance (`obj::method`), Unbound (`Class::instanceMethod`), Constructor (`Class::new`)
+- Learned overload ambiguity handling and when to prefer lambdas.
+
+#### Interfaces & Java 8 Enhancements
+- Deep understanding of **@FunctionalInterface** and SAM conversion.
+- Used built-in interfaces:
+  - `Supplier`, `Consumer`, `Function`, `Predicate`
+  - `UnaryOperator`, `BinaryOperator`, `Comparator`
+- Created custom functional interfaces with default methods.
+- **Default methods** for backward compatibility.
+- **Static methods** for interface-level utilities.
+- Method resolution rules (class wins, conflict resolution).
+- Marker interfaces vs **annotations** (modern alternative).
+
+#### 🔹 Scenario-Based Implementations | `java-iostreams-practice`
+
+#### Java I/O + Annotations + Reflection
+- **HealthCheckPro** – API metadata scanning using custom annotations & reflection
+- **MarkMate** – CSV marks processing and JSON report generation
+- **EventTracker** – Audit logging via annotations, reflection, and JSON output
+
+🔗 **Code Links:**  
+👉 [Day 34 - Lamda Expressions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-practice/Java8Programming/src/com/LambdaExpressions)
+👉 [Method References](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-practice/Java8Programming/src/com/MethodReferences)
+👉 [Functional Interfaces](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-practice/Java8Programming/src/com/interfaces)
+👉 [IOStreams Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOScenarioBased/src/com/day1)
 
 </details>
 
