@@ -13,19 +13,22 @@
 ```text
 BridgeLabz-Training/
 │
-├── dsa-practice/
-│   │
-│   ├── gcr-codebase/
-│   │   └── JavaDsaPractice/
-│   │       └── src/
-│   │           └── com/
-│   │               └── (Core DSA implementations)
-│   │
-│   ├── leetcode-based-codebase/
-│   │   └── (LeetCode problem solutions)
-│   │
-│   ├── scenario-based-codebase/
-│   │   └── (Real-world DSA scenario problems)
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashing/
+|   |               ├── 📁 StringBuilder
+|   |               ├── 📁 StringBuffer
+|   |               ├── 📁 TimeAndSpaceComplexity
+|   |               ├── 📁 BufferedReader
+|   |               ├── 📁 searching
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   ├── 📁 scenario-based-codebase/
 │   │
 │   └── README.md
 ```
@@ -224,7 +227,7 @@ Worked on real-world DSA use cases using core data structures.
 ---
 
 ### 🗓 Day 9 – Sorting Algorithms Scenario Practice
-**(Date: 15-Jan-2026)**                    
+**(Date: 15-Jan-2026)**                     
 **Branch:** `dsa-practice`
 
 #### 🔹 Solved real-world, scenario-based problems using sorting algorithms:
@@ -244,7 +247,7 @@ Analyzed sorting behavior for small vs large datasets, stability, and performanc
 ---
 
 ### 📅 Day 10 – Sorting Scenarios & Java Collections Framework  
-**(Date: 16-Jan-2026)**  
+**(Date: 16-Jan-2026)**       
 **Branch:** `dsa-practice`
 
 Solved **3 real-world scenario-based sorting problems**:
@@ -264,7 +267,7 @@ Solved **3 real-world scenario-based sorting problems**:
 ---
 
 ### 📅 Day 11 – Sorting Algorithms (Scenario-Based Practice)  
-**(Date: 17-Jan-2026)**  
+**(Date: 17-Jan-2026)**      
 **Branch:** `dsa-practice`
 
 Worked on **4 real-world, scenario-based problems** applying core **sorting algorithms** to practical use cases.
@@ -289,7 +292,7 @@ Worked on **4 real-world, scenario-based problems** applying core **sorting algo
 ---
 
 ### 📅 Day 12 – Sorting Algorithms (Scenario-Based Practice)
-**(Date: 19-Jan-2026)**   
+**(Date: 19-Jan-2026)**    
 **Branch:** `dsa-practice`
 
 #### 🔹 DSA – Scenario Based Sorting 
@@ -304,7 +307,7 @@ Solved **3 real-world sorting problems**:
 ---
 
 ### 📅 Day 13 – DSA, Logic Building
-**(Date: 20-jan-2026)**
+**(Date: 20-jan-2026)**         
 
 #### 🔹 DSA – Scenario Based Sorting `(dsa-practice)`
 Solved **3 real-world sorting problems**:
@@ -323,7 +326,7 @@ Solved **3 real-world sorting problems**:
 ---
 
 ### 📅 Day 14 – DSA Scenarios (Sorting & Trees) 
-**(Date: 21-Jan-2026)**
+**(Date: 21-Jan-2026)**     
 
 #### 🔹 DSA – Sorting Scenarios `(dsa-practice)`
 Solved **2 real-world sorting problems**:
@@ -342,3 +345,18 @@ Solved **3 BST-based scenario problems**:
 
 ---
 
+### 📅 Day 15 – Annotations, Reflection & AVL Trees Scenarios
+**(Date: 22-Jan-2026)**                    
+**Branch:** `dsa-practice`
+
+#### 🌳 DSA – AVL Tree Scenarios 
+Solved **3 real-world AVL Tree problems**:
+
+- **Gaming App Leaderboard** – insert, update, rank, and remove players
+- **Online Ticket Booking** – manage events sorted by time
+- **Hospital Queue System** – balanced patient registration and retrieval
+
+🔗 **Code Links:**  
+👉 [Day 15 - Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day10)
+
+---
