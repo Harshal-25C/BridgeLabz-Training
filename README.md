@@ -1216,6 +1216,41 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 👉 [Functional Interfaces](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-practice/Java8Programming/src/com/interfaces)
 👉 [IOStreams Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/scenario-based-codebase/IOScenarioBased/src/com/day1)
 
+---
+
+### 📅 Day 35 – Stream API, Collectors & forEach (Java 8)
+**(Date: 28-Jan-2026)** 
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Topics Learned
+- **Stream API:** functional-style data processing using  
+  `source → intermediate ops → terminal op`
+  - Intermediate: `filter`, `map`, `sorted`, `distinct`, `limit`
+  - Terminal: `collect`, `forEach`, `reduce`, `count`
+  - Lazy evaluation, stateless vs stateful ops
+- **Parallel Streams:** `parallelStream()`, ForkJoinPool, ordering with `forEachOrdered`
+- **forEach():** terminal operation using `Consumer`
+- **Collectors:** data transformation, aggregation, grouping & partitioning
+
+#### 🔹 Collectors Practiced
+- `toList()`, `toSet()`, `toMap()`
+- `joining()`
+- `groupingBy()`
+- `partitioningBy()`
+- `summarizingInt()`
+
+#### 🔹 Scenario-Based Practice (Employee Stream Problems)
+Solved **21 real-time Stream API questions**, including:
+- Male/Female count & average age/salary
+- Department-wise employee count & average salary
+- Highest, lowest, 2nd/3rd highest & lowest paid employees
+- Employees joined after 2015
+- Top 5 highest & lowest paid employees
+- Experience-based and department-specific queries
+
+🔗 **Code Links:**  
+👉 [Day 35 - Stream API](https://github.com/Harshal-25C/BridgeLabz-Training/)
+
 </details>
 
 ---
