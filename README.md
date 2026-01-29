@@ -1218,38 +1218,53 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 
 ---
 
-### 📅 Day 35 – Stream API, Collectors & forEach (Java 8)
-**(Date: 28-Jan-2026)** 
+### 📅 Day 35 – Stream API (Java 8+)
+**(Date: 28-Jan-2026)**  
 **Branch:** `java8-programming-practice`
 
 #### 🔹 Topics Learned
-- **Stream API:** functional-style data processing using  
-  `source → intermediate ops → terminal op`
-  - Intermediate: `filter`, `map`, `sorted`, `distinct`, `limit`
-  - Terminal: `collect`, `forEach`, `reduce`, `count`
-  - Lazy evaluation, stateless vs stateful ops
-- **Parallel Streams:** `parallelStream()`, ForkJoinPool, ordering with `forEachOrdered`
-- **forEach():** terminal operation using `Consumer`
-- **Collectors:** data transformation, aggregation, grouping & partitioning
+- **Stream API:** Functional-style processing of collections  
+  `source → intermediate operations → terminal operation`
+- **Intermediate Operations:** `filter`, `map`, `sorted`, `distinct`, `limit`
+- **Terminal Operations:** `collect`, `forEach`, `reduce`, `count`
+- **Parallel Streams:** `parallelStream()`, `ForkJoinPool`, ordering with forEachOrdered
+- Lazy evaluation and stream pipeline execution
+- Stateless vs stateful operations
 
-#### 🔹 Collectors Practiced
-- `toList()`, `toSet()`, `toMap()`
-- `joining()`
-- `groupingBy()`
-- `partitioningBy()`
-- `summarizingInt()`
+#### 🔹 Practice Work
+- Built multiple stream pipelines on collections
+- Solved employee-based real-time problems using Stream API
+- Focused on filtering, mapping, sorting, and reduction logic
 
-#### 🔹 Scenario-Based Practice (Employee Stream Problems)
-Solved **21 real-time Stream API questions**, including:
-- Male/Female count & average age/salary
-- Department-wise employee count & average salary
-- Highest, lowest, 2nd/3rd highest & lowest paid employees
-- Employees joined after 2015
-- Top 5 highest & lowest paid employees
-- Experience-based and department-specific queries
+🔗 **Code Link:**  
+👉 [Day 35 - Stream API]()
 
-🔗 **Code Links:**  
-👉 [Day 35 - Stream API](https://github.com/Harshal-25C/BridgeLabz-Training/)
+---
+
+### 📅 Day 36 – Collectors & Java 8 Features
+**(Date: 29-Jan-2026)**  
+**Branch:** `java8-programming-practice`
+
+#### 🔹 Topics Learned
+- **Collectors:** Accumulating stream results
+  - `toList()`, `toSet()`, `toMap()`
+  - `joining()`
+  - `groupingBy()`
+  - `partitioningBy()`
+  - `summarizingInt()`
+- **forEach():** Iteration using `Consumer`
+- **Parallel Streams:** `parallelStream()`, `forEachOrdered()`
+- Performance considerations & ForkJoinPool basics
+
+#### 🔹 Scenario-Based Practice
+- Solved **10 real-time Employee Stream problems**, including:
+  - Gender-wise count & salary analysis
+  - Department-wise grouping & averages
+  - Highest/lowest & top-N salary queries
+  - Experience-based and joining-year filters
+
+🔗 **Code Link:**  
+👉 [Day 36 - Collectors]()
 
 </details>
 
