@@ -1295,8 +1295,8 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
-**Date: 31-Jan-2026)**     
-**Branch:** `java8-programming-practice`
+**Date: 31-Jan-2026)**       
+**Branch:** `java-design-pattern-practice`
 
 #### 🔹 Design Principles Covered
 - **SOLID Principles:** SRP, OCP, LSP, ISP, DIP  
@@ -1323,7 +1323,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 39 – Java Multithreading
-**(Date: 02-Jan-2026)** 
+**(Date: 02-Jan-2026)**                  
 **Branch:** `java-design-pattern-practice`
 
 #### 🔹 Core Concepts
