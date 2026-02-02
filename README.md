@@ -1285,6 +1285,15 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 
 ---
 
+</details>
+
+## 📅 Week 7 - Solution Designing - Progress Log
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
 **Date: 31-Jan-2026)**     
 **Branch:** `java8-programming-practice`
@@ -1309,11 +1318,40 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
   E-Commerce, and System utility** modules
 
 🔗 **Code Link:** 
-👉 [Day 38 - Design Patterns](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/)
+👉 [Day 38 - Design Patterns](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/DesignPatterns/)
 
 ---
 
-### 📅 Day 39 – Design Principles, GoF Patterns & Optional (Java 8)
+### 📅 Day 39 – Java Multithreading
+**(Date: 02-Jan-2026)** 
+**Branch:** `java-design-pattern-practice`
+
+#### 🔹 Core Concepts
+- **Process:** OS-level execution unit containing one or more threads  
+- **Thread:** Lightweight sub-process; smallest unit of execution  
+- Threads share process memory but have independent execution paths  
+- **Multithreading:** Enables parallel task execution and better CPU utilization
+
+#### 🔹 Pros & Cons
+**Pros:** Better resource usage, faster execution, responsive GUI, fault isolation  
+**Cons:** Complex code, synchronization overhead, debugging difficulty, deadlock & starvation risks
+
+#### 🔹 Thread Lifecycle
+- New → Runnable → Running → Blocked/Waiting → Terminated  
+- Managed by JVM thread scheduler
+
+#### 🔹 Thread Creation
+- Extending `Thread` class  
+- Implementing `Runnable` interface (preferred for flexibility)
+
+#### 🔹 Thread Class Highlights
+- Methods practiced: `start()`, `run()`, `sleep()`, `join()`, `yield()`, `isAlive()`  
+- Thread naming, priority, interruption handling  
+- **User vs Daemon threads** and JVM termination behavior  
+- Explored `Thread.State`, `currentThread()`, and lifecycle monitoring
+
+🔗 **Code Link:** 
+👉 [Day 39 - Multithreading](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/MultiThreading)
 
 </details>
 
