@@ -1311,6 +1311,10 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 🔗 **Code Link:** 
 👉 [Day 38 - Design Patterns](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/)
 
+---
+
+### 📅 Day 39 – Design Principles, GoF Patterns & Optional (Java 8)
+
 </details>
 
 ---
