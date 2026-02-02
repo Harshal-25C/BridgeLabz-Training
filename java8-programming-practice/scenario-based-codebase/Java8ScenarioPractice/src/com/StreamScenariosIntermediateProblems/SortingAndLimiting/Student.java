@@ -7,7 +7,7 @@ public class Student {
     int age;
     String gender;
     String city;
-    int rank;
+    public int rank;
     String contacts;
 
     public Student(int id, String firstName, int age, String gender,
