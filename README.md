@@ -1353,6 +1353,11 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 🔗 **Code Link:** 
 👉 [Day 39 - Multithreading](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/JavaSolutionDesigning/src/com/MultiThreading)
 
+---
+
+### 📅 Day 40 – Java8 & Multithreading Scenarios
+**(Date: 03-Jan-2026)**
+
 </details>
 
 ---
