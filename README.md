@@ -1,6 +1,4 @@
-# BridgeLabz-Training🎯
-
---- 
+# BridgeLabz-Training
 
 > 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
 > 🧑‍💻 Core Java | OOPs | DSA | Scenario-Based Learning  
@@ -9,13 +7,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black)
 ![DSA](https://img.shields.io/badge/DSA-Practice-blue)
 
----
-
 ## Training Overview📈💡
 This repository documents my learning journey at BridgeLabz pre-onboarding training program as part of the **Capgemini** onboarding process, spanning from December 15, 2025 to present.
 The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
-
----
 
 ## ♨️Repository Branches :-
 [``🔹 core-java-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice)
@@ -35,6 +29,9 @@ The training is organized into structured branches covering different aspects of
 
 [``🔹 java8-programming-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice)
 **➡️ Week 6:** Java-8 and it's feature
+
+[``🔹 java-design-pattern-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-design-pattern-practice)
+**➡️ Week 7:** Solution Designing(Design Priciples & Patterns)
 
 ---
 
@@ -281,9 +278,9 @@ BridgeLabz-Training/
 👉 [Day 8 – Scenario-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
 👉 [Leetcode-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase)
 
----
-
 </details>
+
+---
 
 ## 📅 Week 2 - Introduction to Object Oriented Programming
 
@@ -490,9 +487,9 @@ Emphasis on clean design, object interaction, and reusable code structure.
 👉 [Day 14 – Java Encapsulation & Polymorphism](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-code-base/JavaOopsConcepts/src/com/encapsulationandpolymorphism)
 👉 [Scenario Based Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase)
 
----
-
 </details>
+
+---
 
 ## 📅 Week 3 - DSA Overview & Scenario-based OOP Practice – Progress Log
 
@@ -824,9 +821,9 @@ Applied **Core OOP Principles**:
 👉 [Day 24- DSA Scenario-Based Practice ](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day3)
 👉 [Java OOPs Scenario Problems](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/JavaScenarioBased/src/com/day10)
 
----
-
 </details>
+
+---
 
 ## 📅 Week 4 - Java Collections, Streams - Progress Log
 
@@ -1088,9 +1085,9 @@ Solved **3 real-world AVL Tree problems**:
 👉 [Reflection](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollections/src/com/reflection)
 👉 [Tree Based Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/day10)
 
----
-
 </details>
+
+---
 
 ## 📅 Week 5 - IO Programming (CSV & JSON Files Handling)
 
@@ -1173,10 +1170,10 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 🔗 **Code Links:**  
 👉 [Day 33 - JSON Data](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-iostreams-practice/java-iostreams-practice/gcr-codebase/JavaIOStreams/src/com/jsonData)
 👉 [Collections Scenarios-Based](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/CollectionsScenarioPractice/src/com/day2)
+ 
+</details>
 
 ---
-
-</details>
 
 ## 📅 Week 6 - Java 8 & its Features - Progress Log
 
@@ -1294,9 +1291,9 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 🔗 **Code Link:** 
 👉 [Day 37 - Java8 Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamScenariosIntermediateProblems)
 
----
-
 </details>
+
+---
 
 ## 📅 Week 7 - Solution Designing - Progress Log
 
