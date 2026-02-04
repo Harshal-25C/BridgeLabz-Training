@@ -118,8 +118,19 @@ BridgeLabz-Training/
 │   │       └── 📁 src/
 │   │           └── 📁 com/
 │   │               ├── 📁 LamdaExpressions/
+|   |               ├── 📁 FunctionalInterfaces/
 |   |               ├── 📁 MethodReferences/
-|   |               └── 📁 interfaces/
+|   |               ├── 📁 Stream API/
+|   |               └── 📁 Collectors/
+|   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-design-pattern-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaSolutionDesigning/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 DesignPattern/
+|   |               └── 📁 Multithreading/
 |   └── 📁 scenario-based-codebase/
 |
 └── README.md
