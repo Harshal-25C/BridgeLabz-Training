@@ -1334,7 +1334,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 39 – Java Multithreading
-**(Date: 02-Jan-2026)**                  
+**(Date: 02-Feb-2026)**                  
 **Branch:** `java-design-pattern-practice`
 
 #### 🔹 Core Concepts
@@ -1366,8 +1366,57 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 
 ---
 
-### 📅 Day 40 – Java8 & Multithreading Scenarios
-**(Date: 03-Jan-2026)**
+### 📅 Day 40 – Java 8 Stream API (Scenario-Based) & Multithreading
+**(Date: 03-Feb-2026)**  
+**Branches:** `java8-programming-practice`, `java-design-pattern-practice`
+
+#### 🔹 Java 8 Stream API – Scenario Practice
+Solved **30+ real-world logical problems using Java Streams only**, focusing on:
+- Character & word frequency analysis
+- First / all non-repeating characters
+- Removing duplicates & filtering characters
+- String cleansing (alphabets, digits, alphanumeric)
+- Numeric operations: sum, max, top-K, even/odd partitioning
+- List & Map transformations, sorting, grouping, flattening
+- Advanced queries like kth smallest, longest string, intersections
+
+Emphasis on **filter, map, flatMap, distinct, sorted, limit, reduce, Collectors**
+
+#### 🔹 Multithreading Scenario – Bank Transactions
+Implemented a **thread-safe banking system** with:
+- Concurrent **deposit & withdrawal** operations
+- Multiple customers as independent threads
+- Proper **synchronization** to prevent race conditions
+- Correct balance updates under concurrent access
+- Driver program demonstrating safe parallel execution
+
+✔ Strengthened problem-solving using **Streams + concurrency fundamentals**  
+✔ Practiced interview-oriented, real-time scenarios
+
+🔗 **Code Link:** 
+👉 [Day 40 - Stream API Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/StreamLogicalQuestions)
+👉 [Multithreading Scenarios](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-design-pattern-practice/)
+
+---
+
+### 📅 Day 41 – Java 8 Stream API (Conversions)
+**(Date: 04-Feb-2026)**
+**Branch:** `java8-programming-practice`
+
+#### 🔹 What I Practiced
+Solved **conversion-based logical problems using Java 8 Streams**, focusing on transforming data between different collection types.
+
+#### 🔹 Key Conversions
+- **List ↔ Map:** indexing, frequency count, grouping, handling duplicate keys
+- **Map ↔ List:** keys, values, entries, sorting & filtering
+- **List ↔ Set:** removing duplicates, ordering, sorting
+- **Array ↔ Collections:** 1D/2D arrays, flattening, distinct mapping
+- **Object Conversions:** grouping, flattening, composite keys
+- **Other:** Stream/Optional conversions, formatted strings
+
+✔ Strengthened hands-on skills with `Collectors`, `map`, `flatMap`, and `groupingBy`
+
+👉 [Day 41 - Stream API Logical Questions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-codebase/Java8ScenarioPractice/src/com/ConversionLogicalQuestions)
 
 </details>
 
