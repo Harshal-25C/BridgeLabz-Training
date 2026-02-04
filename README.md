@@ -1132,7 +1132,7 @@ Solved **5 real-world systems** using **Collections, Generics, I/O Streams, Rege
 ---
 
 ### 📅 Day 33 – JSON Data Handling & Scenario-Based Java Practice  
-**(Date: 24-Jan-2026)**         
+**(Date: 24-Jan-2026)**          
 **Branche:** `java-iostreams-practice`
 
 #### 🔹 JSON Data Handling in Java
@@ -1183,7 +1183,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 34 – Java 8 Features & Advanced Java Practice  
-**(Date: 27-Jan-2026)**            
+**(Date: 27-Jan-2026)**             
 **Branch:** `java8-programming-practice`
 
 #### 🔹 Java 8 Core Concepts Learned
@@ -1227,7 +1227,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 35 – Stream API (Java 8+)
-**(Date: 28-Jan-2026)**  
+**(Date: 28-Jan-2026)**   
 **Branch:** `java8-programming-practice`
 
 #### 🔹 Topics Learned
@@ -1250,7 +1250,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 36 – Collectors & Java 8 Features
-**(Date: 29-Jan-2026)**       
+**(Date: 29-Jan-2026)**        
 **Branch:** `java8-programming-practice`
 
 #### 🔹 Topics Learned
@@ -1277,7 +1277,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 37 – Lambda Expressions & Stream API Scenarios(Java 8)
-**(Date: 30-Jan-2026)**        
+**(Date: 30-Jan-2026)**         
 **Branch:** `java8-programming-practice`
 
 #### 🔹 Work Done
@@ -1303,7 +1303,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
-**Date: 31-Jan-2026)**       
+**Date: 31-Jan-2026)**        
 **Branch:** `java-design-pattern-practice`
 
 #### 🔹 Design Principles Covered
@@ -1331,7 +1331,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 39 – Java Multithreading
-**(Date: 02-Feb-2026)**                  
+**(Date: 02-Feb-2026)**                   
 **Branch:** `java-design-pattern-practice`
 
 #### 🔹 Core Concepts
@@ -1364,7 +1364,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 40 – Java 8 Stream API (Scenario-Based) & Multithreading
-**(Date: 03-Feb-2026)**  
+**(Date: 03-Feb-2026)**      
 **Branches:** `java8-programming-practice`, `java-design-pattern-practice`
 
 #### 🔹 Java 8 Stream API – Scenario Practice
@@ -1397,7 +1397,7 @@ Implemented a **thread-safe banking system** with:
 ---
 
 ### 📅 Day 41 – Java 8 Stream API (Conversions)
-**(Date: 04-Feb-2026)**
+**(Date: 04-Feb-2026)**        
 **Branch:** `java8-programming-practice`
 
 #### 🔹 What I Practiced
