@@ -33,6 +33,9 @@ The training is organized into structured branches covering different aspects of
 [``🔹 java-design-pattern-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/java-design-pattern-practice)
 **➡️ Week 7:** Solution Designing(Design Priciples & Patterns)
 
+[``🔹 mysql-jdbc-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+**➡️ Week 8:** MySQL Database & JDBC(Java-Database-Connectivity)
+
 ---
 
 ## 📁Project Structure
@@ -129,6 +132,8 @@ BridgeLabz-Training/
 │   │               ├── 📁 DesignPattern/
 |   |               └── 📁 Multithreading/
 |   └── 📁 scenario-based-codebase/
+|
+├── 📁 mysql-jdbc-practice/
 |
 └── README.md
 ```
@@ -1437,6 +1442,43 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 - User input handling and formatted output
 
 ✔ Focused on clean logic, data aggregation, and rule-based result generation
+
+👉 [Day 42 - Logical Question](https://github.com/Harshal-25C/BridgeLabz-Training/)
+
+</details>
+
+---
+
+## 📅 Week 8 - MySQL Database & JDBC(Java-Database-Connectivity)
+
+<details>
+<summary><strong>Click to expand...👆</strong></summary>
+
+---
+
+### 📅 Day 43 – MySQL & JDBC Fundamentals  
+**Date:** 06-Jan-2026  
+**Branch:** `mysql-jdbc-practice`
+
+#### 🔹 Topics Covered
+- Overview of **MySQL as an RDBMS** and real-world database usage
+- **Database design principles**: normalization (1NF to BCNF), primary & foreign keys
+- **Constraints**: NOT NULL, UNIQUE, CHECK, DEFAULT, AUTO_INCREMENT
+- **SQL command categories**: DDL, DML, DQL, DCL, TCL
+- **Joins** (INNER, LEFT, RIGHT), subqueries, CTEs, and window functions
+- **Transactions & ACID properties** for data consistency
+- **Indexing concepts** in MySQL & SQL Server
+- Query performance tuning using `EXPLAIN`
+
+#### 🔹 Hands-On Practice
+- Practiced SQL queries on real-world scenarios:
+  - **Employee Management System** – CRUD operations, search & updates
+  - **Banking System** – balance handling with transactions
+  - **Library Management System** – book inventory, issue/return, user tracking
+
+✔ Strengthened understanding of **data integrity, performance optimization, and JDBC-ready SQL design**
+
+👉 [Day 43 - MySQL Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
 
 </details>
 
