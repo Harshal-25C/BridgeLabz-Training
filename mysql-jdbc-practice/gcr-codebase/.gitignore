@@ -1,0 +1,32 @@
+# Eclipse specific files
+.metadata/
+.settings/
+.classpath
+.project
+
+# Java build output
+bin/
+target/
+lib/
+
+# Logs
+*.log
+
+#Jar Files
+lib/*.jar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Secrets
+application.properties
+
+# Local practice folders (do not touch on branch switch)
+gcr-codebase/
+leet-code-codebase/
+scenario-based-codebase/
+dsa-practice/
+java-collections-practice/
+java-oops-practice/
+core-java-practice/
