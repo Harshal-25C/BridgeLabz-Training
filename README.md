@@ -134,6 +134,22 @@ BridgeLabz-Training/
 |   └── 📁 scenario-based-codebase/
 |
 ├── 📁 mysql-jdbc-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 mysqlpractice/
+│   │       └── 📁 src/
+│   │           |── 📁 main/
+│   │           |   ├── 📁 java/
+|   |           |   |   └── 📁 com/
+|   |           |   |       └── 📁 mysqlpractice/
+|   |           |   |                   
+|   |           |   └── 📁 resources/
+|   |           |       └── 📁 sql/
+|   |           |
+|   |           └── 📁 test/
+│   │               ├── 📁 java/
+|   |               └── 📁 resources/
+|   |            
+|   └── 📁 scenario-based-codebase/
 |
 └── README.md
 ```
