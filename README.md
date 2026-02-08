@@ -32,7 +32,7 @@ BridgeLabz-Training/
 └── README.md
 ```
 
-#### 📁 gcr-codebse structure
+#### 📁 gcr-codebse structure(Maven Project)
 
 ```
 mysqlpractice/
@@ -128,6 +128,6 @@ Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Manageme
 
 ✔ Strengthened both **backend database skills** and **communication abilities** for real-world development
 
-👉 [Day 2 - MySQL Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 2 - MySQL Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based-codebase/mysqlScenarioPractice/src/main/java/com/mysqlScenarioPractice)
 
 ---
