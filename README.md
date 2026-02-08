@@ -1457,7 +1457,7 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 ---
 
 ### 📅 Day 43 – MySQL & JDBC Fundamentals  
-**Date:** 06-Jan-2026  
+**(Date: 06-Jan-2026)**         
 **Branch:** `mysql-jdbc-practice`
 
 #### 🔹 Topics Covered
@@ -1479,6 +1479,37 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 ✔ Strengthened understanding of **data integrity, performance optimization, and JDBC-ready SQL design**
 
 👉 [Day 43 - MySQL Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+
+---
+
+### 📅 Day 44 – MySQL + JDBC Scenario Practice & PowerSkill Training  
+**(Date: 07-Jan-2026)**    
+**Branch:** `mysql-jdbc-practice`
+
+#### 🔹 Technical Practice (Scenario-Based)
+Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Management System**, covering:
+- **Patient Management:** registration, update, search, visit history (CRUD, LIKE, JOINs)
+- **Doctor Management:** add/update specialty, view by specialty, soft delete
+- **Appointment Scheduling:** book, cancel, reschedule, availability check (transactions)
+- **Medical Records:** visits, prescriptions, patient history (one-to-many, batch inserts)
+- **Billing & Payments:** bill generation, payments, outstanding bills, revenue reports
+- **System Admin:** specialty lookup, audit logs, backup concepts
+
+#### 🔹 Key Concepts Applied
+- Primary & Foreign Keys, Auto-Increment  
+- INNER / LEFT JOINs, Subqueries  
+- Transactions (COMMIT / ROLLBACK)  
+- PreparedStatement (SQL injection prevention)  
+- Aggregate functions (COUNT, SUM, AVG)  
+- Batch operations, ResultSet handling, indexing & triggers  
+
+#### 🔹 PowerSkill Training
+- Attended **PowerSkill session on Communication Skills**
+- Learned importance of **clear speaking, active listening, confidence, and professional interaction**
+
+✔ Strengthened both **backend database skills** and **communication abilities** for real-world development
+
+👉 [Day 44 - MySQL Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
 
 </details>
 
