@@ -1494,7 +1494,7 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 
 ✔ Strengthened understanding of **data integrity, performance optimization, and JDBC-ready SQL design**
 
-👉 [Day 43 - MySQL Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 43 - MySQL Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/mysqlpractice/src/main/resources/sql)
 
 ---
 
@@ -1525,7 +1525,7 @@ Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Manageme
 
 ✔ Strengthened both **backend database skills** and **communication abilities** for real-world development
 
-👉 [Day 44 - MySQL Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 44 - MySQL Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based-codebase/mysqlScenarioPractice)
 
 ---
 
