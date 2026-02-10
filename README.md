@@ -122,12 +122,42 @@ Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Manageme
 - Aggregate functions (COUNT, SUM, AVG)  
 - Batch operations, ResultSet handling, indexing & triggers  
 
-#### 🔹 PowerSkill Training
-- Attended **PowerSkill session on Communication Skills**
-- Learned importance of **clear speaking, active listening, confidence, and professional interaction**
-
-✔ Strengthened both **backend database skills** and **communication abilities** for real-world development
-
 👉 [Day 2 - MySQL Scenario-Based Practice](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/scenario-based-codebase/mysqlScenarioPractice/src/main/java/com/mysqlScenarioPractice)
+
+---
+
+### 📅 Day 3 – JDBC Learning & Practice  
+**(Date: 09-Feb-2026)**      
+**Branch:** `mysql-jdbc-practice`   
+
+#### 🔹 What I Learned
+- **JDBC Architecture:** DriverManager, Connection, Statement, PreparedStatement, ResultSet
+- **Database Connection Setup:** Basic connection, Properties-based config, Singleton pattern
+- **CRUD Operations:** Create, Read, Update, Delete using JDBC
+- **PreparedStatement vs Statement:** Security, performance, and SQL injection prevention
+- **Transaction Management:** ACID properties, commit/rollback, savepoints
+- **Connection Pooling:** Introduction to HikariCP for performance optimization
+- **Best Practices:** Try-with-resources, batch processing, DTO & DAO patterns
+
+#### 🔹 Hands-on Practice
+- Built a **Student Management System** using JDBC
+- Implemented:
+  - Insert, fetch, update, delete students
+  - Menu-driven console application
+  - Auto-generated keys handling
+  - Stored procedure calls (IN / OUT parameters)
+  - Metadata operations (DatabaseMetaData, ResultSetMetaData)
+
+#### 🔹 Advanced & Real-World Concepts
+- Batch inserts for performance
+- Exception handling with specific SQL exceptions
+- Security practices (no hardcoded credentials, input validation)
+- Performance tuning (indexes, fetch size, connection pooling)
+- Unit testing basics using JUnit & Mockito (mocking JDBC)
+
+#### ✅ Outcome
+Strengthened understanding of **JDBC fundamentals to advanced concepts**, gained confidence in building **database-driven Java applications**, and learned **production-level best practices** for performance, security, and maintainability.
+
+👉 [Day 3 - JDBC](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
 
 ---
