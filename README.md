@@ -1565,18 +1565,18 @@ Strengthened understanding of **JDBC fundamentals to advanced concepts**, gained
 
 ---
 
-## 📅 Day 46 – Java Logical Practice  
-**Date:** 10-Feb-2026  
+### 📅 Day 46 – Java Logical Practice  
+**(Date: 10-Feb-2026)**  
 
-### 🔹 Summary
+#### 🔹 Summary
 Solved **3 Logical Java problems** covering core logic, Streams API, collections, exceptions, and testing.
 
-### 🔹 Work Done
+#### 🔹 Work Done
 - **Course Enrollment Analyzer:** Used **Streams API** for filtering, grouping, counting, sorting; wrote **JUnit tests** for validation.
 - **Smart Canteen Order Tracker:** Menu-driven app using **List**, `switch-case`, loops, **GST calculation**, and exception handling.
 - **Online Fitness App Analyzer:** Processed step data using arrays, **custom exception**, calculated stats, and classified activity levels.
 
-### ✅ Outcome
+#### ✅ Outcome
 Strengthened skills in **Java streams, collections, exception handling, and clean problem-solving** for assessment scenarios.
 
 👉 [Day 46 - Java Logical Questions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
