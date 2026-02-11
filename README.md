@@ -1581,6 +1581,23 @@ Strengthened skills in **Java streams, collections, exception handling, and clea
 
 👉 [Day 46 - Java Logical Questions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
 
+---
+
+## 📅 Day 47 – Factory Robot Hazard Analyzer  
+
+Developed a system to calculate **Robot Hazard Risk Score** using:
+
+### 🔹 Validations
+- Arm Precision: 0.0–1.0  
+- Worker Density: 1–20  
+- Machinery State: Worn (1.3), Faulty (2.0), Critical (3.0)  
+- Invalid inputs handled using custom `RobotSafetyException`
+
+### 🔹 Concepts Used
+Custom Exception, input validation, try-catch, logical formula implementation.
+
+👉 [Day 47 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+
 </details>
 
 ---
