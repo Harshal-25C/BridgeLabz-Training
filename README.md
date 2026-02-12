@@ -1584,6 +1584,7 @@ Strengthened skills in **Java streams, collections, exception handling, and clea
 ---
 
 ### 📅 Day 47 – Factory Robot Hazard Analyzer  
+**(Date: 11-Feb-2026)**    
 
 Developed a system to calculate **Robot Hazard Risk Score** using:
 
@@ -1597,6 +1598,30 @@ Developed a system to calculate **Robot Hazard Risk Score** using:
 Custom Exception, input validation, try-catch, logical formula implementation.
 
 👉 [Day 47 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+
+---
+
+### 📅 Day 48 – AeroVigil Flight Validation System  
+**(Date: 12-Feb-2026)**      
+
+Developed an **Airline Management validation system** to verify flight details and calculate required fuel before takeoff.
+
+#### 🔹 Features Implemented
+- **Flight Number Validation** → Format `FL-XXXX` (1000–9999)
+- **Flight Name Validation** → SpiceJet, Vistara, IndiGo, Air Arabia
+- **Passenger Capacity Check** → Validated against flight-specific limits
+- **Fuel Level Verification** → Ensured fuel within tank capacity
+- **Fuel Calculation** → Returned fuel required to fill the tank
+
+#### 🔹 Concepts Used
+- Custom Exception (`InvalidFlightException`)
+- Input parsing using `split()`
+- Validation logic with conditional checks
+- try-catch exception handling
+- OOP-based structured design (FlightUtil, UserInterface)
+
+#### 🔹 Outcome
+Improved understanding of **input validation, exception handling, business rule enforcement, and structured Java application design** aligned with assessment-level standards.
 
 </details>
 
