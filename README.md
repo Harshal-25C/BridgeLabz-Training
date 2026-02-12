@@ -1459,7 +1459,7 @@ Implemented a **menu-driven console application** for *StreamBuzz*, a digital co
 
 ✔ Focused on clean logic, data aggregation, and rule-based result generation
 
-👉 [Day 42 - Logical Question](https://github.com/Harshal-25C/BridgeLabz-Training/)
+👉 [Day 42 - Logical Question](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms)
 
 </details>
 
@@ -1561,7 +1561,7 @@ Worked on **6 real-world JDBC + MySQL scenarios** based on a **Hospital Manageme
 #### ✅ Outcome
 Strengthened understanding of **JDBC fundamentals to advanced concepts**, gained confidence in building **database-driven Java applications**, and learned **production-level best practices** for performance, security, and maintainability.
 
-👉 [Day 45 - JDBC](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 45 - JDBC](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice/mysql-jdbc-practice/gcr-codebase/mysqlpractice/src/main/java/com/mysqlpractice)
 
 ---
 
@@ -1579,7 +1579,7 @@ Solved **3 Logical Java problems** covering core logic, Streams API, collections
 #### ✅ Outcome
 Strengthened skills in **Java streams, collections, exception handling, and clean problem-solving** for assessment scenarios.
 
-👉 [Day 46 - Java Logical Questions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 46 - Java Logical Questions](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms)
 
 ---
 
@@ -1597,7 +1597,7 @@ Developed a system to calculate **Robot Hazard Risk Score** using:
 #### 🔹 Concepts Used
 Custom Exception, input validation, try-catch, logical formula implementation.
 
-👉 [Day 47 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/mysql-jdbc-practice)
+👉 [Day 47 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/FactoryRobotHazardAnalyzer)
 
 ---
 
@@ -1622,6 +1622,8 @@ Developed an **Airline Management validation system** to verify flight details a
 
 #### 🔹 Outcome
 Improved understanding of **input validation, exception handling, business rule enforcement, and structured Java application design** aligned with assessment-level standards.
+
+👉 [Day 48 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/AeroVigil)
 
 </details>
 
