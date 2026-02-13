@@ -1625,6 +1625,31 @@ Improved understanding of **input validation, exception handling, business rule 
 
 👉 [Day 48 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/AeroVigil)
 
+---
+
+### 📅 Day 49 – Logical Practice (Collections & Strings)
+
+#### 🔹 1️⃣ Car Pro – Booking Date Filter
+Implemented a booking system using `Map<String, Date>` to store bookingId and date.  
+Created `findCabBookingIdsForTheBookingDate(Date date)` to filter IDs based on `yyyy-MM-dd` format.  
+Displayed matching bookings or “No bookings were booked”.
+
+**Concepts:** HashMap, List, Date parsing, iteration, OOP structure.
+
+#### 🔹 2️⃣ Train Booking ID Decoder
+Decoded a 10-character alphanumeric booking ID:
+- Validate length → `Invalid Input`
+- Validate seat count (1–10) → `Invalid Count`
+- Validate seat format (Letter + 2 digits) → `Invalid Seat Number`
+- Print consecutive seat numbers if valid.
+
+**Concepts:** String manipulation, character validation, parsing, conditional logic.
+
+#### 🎯 Outcome
+Improved skills in collections, date handling, string processing, and validation logic.
+
+👉 [Day 49 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/AeroVigil)
+
 </details>
 
 ---
