@@ -1648,7 +1648,7 @@ Decoded a 10-character alphanumeric booking ID:
 #### 🎯 Outcome
 Improved skills in collections, date handling, string processing, and validation logic.
 
-👉 [Day 49 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/AeroVigil)
+👉 [Day 49 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/CarProTaxiService)
 
 </details>
 
