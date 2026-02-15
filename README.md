@@ -1628,6 +1628,7 @@ Improved understanding of **input validation, exception handling, business rule 
 ---
 
 ### 📅 Day 49 – Logical Practice (Collections & Strings)
+**(Date: 13-Feb-2026)** 
 
 #### 🔹 1️⃣ Car Pro – Booking Date Filter
 Implemented a booking system using `Map<String, Date>` to store bookingId and date.  
@@ -1649,6 +1650,11 @@ Decoded a 10-character alphanumeric booking ID:
 Improved skills in collections, date handling, string processing, and validation logic.
 
 👉 [Day 49 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/CarProTaxiService)
+
+---
+
+### 📅 Day 50 – PowerSkill Sessions
+**(Date: 14-Feb-2026)** 
 
 </details>
 
