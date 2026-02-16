@@ -1656,6 +1656,38 @@ Improved skills in collections, date handling, string processing, and validation
 ### 📅 Day 50 – PowerSkill Sessions
 **(Date: 14-Feb-2026)** 
 
+Attended a session on professional communication and workplace writing skills.
+
+#### 🔹 Focus Areas
+- Effective verbal & written communication  
+- Professional email structure and tone  
+- Grammar, syntax, and clarity  
+- Formal communication standards  
+
+#### 🎯 Outcome
+Enhanced email writing skills, improved clarity in communication, and strengthened professional etiquette.
+
+---
+
+## 📅 Day 51 – Logical Question(Train Booking ID Decoder)   
+**(Date: 16-Feb-2026)**
+
+Solved a logical problem to decode a 10-character train booking ID and display seat numbers.
+
+### 🔹 Key Logic
+- Validate length → `Invalid Input`
+- Validate seat count (1–10) → `Invalid Count`
+- Validate format (Letter + 2 digits) → `Invalid Seat Number`
+- Print consecutive seat numbers if valid
+
+### 🔹 Concepts Used
+String manipulation, character validation, parsing, and conditional logic.
+
+### 🎯 Outcome
+Improved string processing and edge-case handling skills.
+
+👉 [Day 51 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/AlphanumericBookingID)
+
 </details>
 
 ---
