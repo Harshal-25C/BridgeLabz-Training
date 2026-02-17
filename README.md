@@ -1601,7 +1601,7 @@ Custom Exception, input validation, try-catch, logical formula implementation.
 
 ---
 
-### 📅 Day 48 – AeroVigil Flight Validation System  
+### 📅 Day 48 – AeroVigil Flight Validation System     
 **(Date: 12-Feb-2026)**      
 
 Developed an **Airline Management validation system** to verify flight details and calculate required fuel before takeoff.
@@ -1627,8 +1627,8 @@ Improved understanding of **input validation, exception handling, business rule 
 
 ---
 
-### 📅 Day 49 – Logical Practice (Collections & Strings)
-**(Date: 13-Feb-2026)** 
+### 📅 Day 49 – Logical Practice (Collections & Strings)          
+**(Date: 13-Feb-2026)**           
 
 #### 🔹 1️⃣ Car Pro – Booking Date Filter
 Implemented a booking system using `Map<String, Date>` to store bookingId and date.  
@@ -1653,8 +1653,8 @@ Improved skills in collections, date handling, string processing, and validation
 
 ---
 
-### 📅 Day 50 – PowerSkill Sessions
-**(Date: 14-Feb-2026)** 
+### 📅 Day 50 – PowerSkill Sessions          
+**(Date: 14-Feb-2026)**       
 
 Attended a session on professional communication and workplace writing skills.
 
@@ -1669,8 +1669,8 @@ Enhanced email writing skills, improved clarity in communication, and strengthen
 
 ---
 
-## 📅 Day 51 – Logical Question(Train Booking ID Decoder)   
-**(Date: 16-Feb-2026)**
+## 📅 Day 51 – Logical Question(Train Booking ID Decoder)         
+**(Date: 16-Feb-2026)**           
 
 Solved a logical problem to decode a 10-character train booking ID and display seat numbers.
 
@@ -1690,8 +1690,8 @@ Improved string processing and edge-case handling skills.
 
 ---
 
-### 📅 Day 52 - Scenario Practice  
-**(Date: 17-Feb-2026)**
+### 📅 Day 52 - Scenario Practice     
+**(Date: 17-Feb-2026)**              
 
 #### 🔹 1️⃣ EchoWeave Encryption  
 Solved a cryptographic-style string problem that reconstructs a word based on character frequency.  
