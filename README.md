@@ -1688,6 +1688,33 @@ Improved string processing and edge-case handling skills.
 
 👉 [Day 51 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms/AlphanumericBookingID)
 
+---
+
+### 📅 Day 52 - Scenario Practice  
+**(Date: 17-Feb-2026)**
+
+#### 🔹 1️⃣ EchoWeave Encryption  
+Solved a cryptographic-style string problem that reconstructs a word based on character frequency.  
+- Validated alphabet-only input  
+- Converted to uppercase  
+- Grouped characters into even and odd frequency (maintaining order)  
+- Rebuilt the string and inserted the count of single-occurrence characters at the center  
+- Handled special cases (all unique / no single occurrences)
+
+**Concepts:** String parsing, frequency mapping, ordered processing, conditional insertion logic.
+
+#### 🔹 2️⃣ CoolTrack – Data Center Monitoring System  
+Built a monitoring system using `LinkedHashSet<DataCenter>` to manage records.  
+- Added data center details  
+- Retrieved data by case-sensitive ID  
+- Identified all centers with maximum cooling power usage  
+
+Followed proper OOP structure with Model, Utility, and UserInterface classes.
+
+**Concepts:** Set collections, searching, aggregation, object-based design.
+
+👉 [Day 52 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms)
+
 </details>
 
 ---
