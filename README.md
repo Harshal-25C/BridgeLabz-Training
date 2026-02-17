@@ -3,7 +3,7 @@
 ---
 
 ### 📅 Day 1 – MySQL & JDBC Fundamentals  
-**(Date: 06-Jan-2026)**         
+**(Date: 06-Feb-2026)**         
 **Branch:** `mysql-jdbc-practice`
 
 #### 📁Project Structure
@@ -102,7 +102,7 @@ mysqlpractice/
 ---
 
 ### 📅 Day 2 – MySQL + JDBC Scenario Practice & PowerSkill Training  
-**(Date: 07-Jan-2026)**    
+**(Date: 07-Feb-2026)**    
 **Branch:** `mysql-jdbc-practice`
 
 #### 🔹 Technical Practice (Scenario-Based)
