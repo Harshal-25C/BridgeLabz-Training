@@ -11,7 +11,7 @@
 This repository documents my learning journey at BridgeLabz pre-onboarding training program as part of the **Capgemini** onboarding process, spanning from December 15, 2025 to present.
 The training is organized into structured branches covering different aspects of Java development, real-world scenario based programming, and DSA preparation.
 
-## ♨️Repository Branches :-
+## ♨️Repository Branches :-         
 [``🔹 core-java-practice``](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice)
 **➡️ Week 1:** Fundamentals of Java Programming
 
