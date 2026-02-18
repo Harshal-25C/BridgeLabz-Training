@@ -1715,6 +1715,11 @@ Followed proper OOP structure with Model, Utility, and UserInterface classes.
 
 👉 [Day 52 - Logical Problem](https://github.com/Harshal-25C/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/DSAScenarioPractice/src/com/AssessmentLevelPrograms)
 
+---
+
+### 📅 Day 53 - Logical Questions    
+**(Date: 18-Feb-2026)**              
+
 </details>
 
 ---
