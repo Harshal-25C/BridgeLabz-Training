@@ -96,6 +96,19 @@ public class TrailUtil {
 	            ));
 	}
 	
+//Or 
+//
+//	public Map<String, List<Trail>> getTopTrailsByRegion(int n) {
+//	    return trailList.stream()
+//	        .collect(Collectors.groupingBy(Trail::getRegion,
+//	            Collectors.collectingAndThen(Collectors.toList(),
+//	                list -> list.stream()
+//	                    .sorted(Comparator.comparing(Trail::getHikeCount).reversed())
+//	                        .limit(n)
+//	                        .collect(Collectors.toList()))));		
+//    }
+ 
+	
 	public Map<String, DifficultyStats> getDifficultyStats(){
 
 		return trailList.stream()
@@ -111,6 +124,22 @@ public class TrailUtil {
 	                    )
 	            ));
 	}
+	
+
+//Or
+//
+//    public Map<String, String> getDifficultyStats() {
+//
+//	    return trailList.stream()
+//	        .collect(Collectors.groupingBy(
+//	            Trail::getDifficulty,
+//	            Collectors.collectingAndThen(
+//	                Collectors.summarizingDouble(Trail::getHikeCount),
+//	                s -> "count=" + s.getCount() +
+//	                     ", min=" + s.getSum() + 
+//	                     ", avg=" + s.getAverage() )));
+//	 }
+	
 }
 
 
