@@ -1721,12 +1721,8 @@ Followed proper OOP structure with Model, Utility, and UserInterface classes.
 ### 📅 Day 53 - Logical Questions    
 **(Date: 18-Feb-2026)**
 
-
 ### 📅 Day 54 - Logical Questions    
 **(Date: 19-Feb-2026)**
-
-### 📅 Day 55 - Logical Questions    
-**(Date: 20-Feb-2026)**
 
 </details>
 
