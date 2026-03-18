@@ -1,4 +1,4 @@
-# BridgeLabz-Training
+## BridgeLabz-Training
 
 > 🚀 Java Full Stack♨️ | Python | Gen AI                                                                     
 > 🧑‍💻 Core Java | OOPs | DSA | Scenario-Based Learning  
