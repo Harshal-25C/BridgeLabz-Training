@@ -161,6 +161,8 @@ BridgeLabz-Training/
 <details>
 <summary><strong>Click to expand...👆</strong></summary>
 
+### 📅 Week 1: Git, GitHub & Java Programming Fundamentals
+
 ---
 
 ### 🗓 Day 1 – Git & GitHub Setup  
@@ -168,6 +170,22 @@ BridgeLabz-Training/
 
 - Installed and configured Git.
 - Set up GitHub repository.
+
+```
+BridgeLabz-Training/
+│── core-java-practice/
+│ │── gcr-codebase/
+│ │ │── arrays/
+│ │ │── control-flow/
+│ │ │── extra/
+│ │ │── methods/
+│ │ │── programming elements/
+│ │ │── programming prerequisites/
+│ │ │── strings/
+│ │── leet-code-codebase/
+│ │── scenario-based-codebase/
+│── README.md
+```
 - Learned basic Git commands (`init`, `clone`, `add`, `commit`, `push`, `rebase`).
 - Successfully pushed files to the remote repository.
 
@@ -256,8 +274,7 @@ BridgeLabz-Training/
 - Committed and pushed solutions to the repository.
 
 🔗 **Code Link:**  
-👉 [Day 6 – Strings](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-👉 [Methods](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
+👉 [Day 6 – Strings & Methods](https://github.com/Harshal-25C/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 ---
 
@@ -1078,7 +1095,7 @@ Solved **3 BST-based scenario problems**:
 ---
 
 ### 📅 Day 31 – Annotations, Reflection & AVL Trees Scenarios
-**Date: 22-Jan-2026)**                    
+**(Date: 22-Jan-2026)**                    
 **Branch:** `java-collections-practice`
 
 Focused on **Annotations and Reflection** with practical examples.
@@ -1325,7 +1342,7 @@ Solved **5 real-world systems** integrating **Collections, Generics, I/O Streams
 ---
 
 ### 📅 Day 38 – Design Principles, GoF Patterns & Optional (Java 8)
-**Date: 31-Jan-2026)**        
+**(Date: 31-Jan-2026)**        
 **Branch:** `java-design-pattern-practice`
 
 #### 🔹 Design Principles Covered
