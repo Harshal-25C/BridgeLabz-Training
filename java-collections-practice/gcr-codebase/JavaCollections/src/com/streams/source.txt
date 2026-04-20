@@ -1,0 +1,3 @@
+Hello! My name is Harshal ,
+As a final year CSE Student with a passion of tackling complex and critical problems ,
+Technically I am proficient in java full stack and mysql database .
